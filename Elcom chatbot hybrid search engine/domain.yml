@@ -1,0 +1,129 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - ask_product_info
+  - chitchat
+  - thank_you
+  - ask_same_product
+  - ask_product_voltage
+  - ask_related_current
+
+entities:
+  - voltage
+  - current
+  - description
+  - mounting_type
+
+responses:
+  utter_greet:
+    - text: "Hey! How are you?"
+
+  utter_cheer_up:
+    - text: "Here is something to cheer you up:"
+      image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+    - text: "Did that help you?"
+
+  utter_happy:
+    - text: "Great, carry on!"
+
+  utter_goodbye:
+    - text: "Bye"
+
+  utter_iamabot:
+    - text: "I'm a virtual assistant developed to help you with Elcom product queries. Feel free to ask me anything related to our catalog!"
+
+  utter_ask_product_info:
+    - text: "Sure! Let me check that for you."
+
+  utter_mood_great:
+    - text: "That's great to hear! 😊 How can I assist you today?"
+
+  utter_chitchat:
+    - text: "I'm here to help you with any product-related questions or support. Feel free to ask me anything related to our catalog!"
+
+  utter_thank_you:
+    - text: "You're very welcome! If you have any more questions or need assistance, feel free to ask."
+
+  utter_mood_unhappy:
+    - text: "I'm sorry you're having trouble. Let me try to help — could you tell me more about what you're looking for?"
+
+  utter_repeat_product_info:
+    - text: "You're asking again about {last_product}, right? Here's what I found:"
+
+  utter_voltage_info:
+    - text: "The last product you asked about had a voltage rating of {last_voltage}V. Want me to search similar products?"
+
+  utter_current_info:
+    - text: "You're referring to a current rating of {last_current}A. Should I show related products?"
+
+actions:
+  - action_search_product
+
+slots:
+  last_product:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: custom
+
+  last_voltage:
+    type: float
+    influence_conversation: false
+    mappings:
+      - type: custom
+
+  last_current:
+    type: float
+    influence_conversation: false
+    mappings:
+      - type: custom
+
+  description:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: custom
+
+  mounting_type:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: custom
+
+  voltage:
+    type: float
+    influence_conversation: false
+    mappings:
+      - type: custom
+
+  current:
+    type: float
+    influence_conversation: false
+    mappings:
+      - type: custom
+
+  voltage_range:
+    type: any
+    influence_conversation: false
+    mappings:
+      - type: custom
+
+  current_range:
+    type: any
+    influence_conversation: false
+    mappings:
+      - type: custom
+
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

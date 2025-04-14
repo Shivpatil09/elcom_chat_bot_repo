@@ -1,0 +1,103 @@
+version: "3.1"
+
+stories:
+
+# --- Exact Matches & Filtered Queries ---
+- story: Exact product match by name
+  steps:
+  - user: |
+      Tell me about RS-1601 switch
+    intent: product_search
+  - action: action_search_product
+
+- story: Filtered query by voltage, current, and mounting type
+  steps:
+  - user: |
+      I need a 16A rocker switch, panel mount, 250V
+    intent: product_search
+  - action: action_search_product
+
+- story: SPDT switch under 6A
+  steps:
+  - user: |
+      Show me SPDT switch under 6A
+    intent: product_search
+  - action: action_search_product
+
+- story: DPDT rotary switch above 5 amps
+  steps:
+  - user: |
+      Looking for a DPDT rotary switch above 5 amps
+    intent: product_search
+  - action: action_search_product
+
+- story: Chassis mount switch less than 250V
+  steps:
+  - user: |
+      Need chassis mount switch less than 250V
+    intent: product_search
+  - action: action_search_product
+
+# --- Ambiguous / Irrelevant Input ---
+- story: Ambiguous or unrelated input
+  steps:
+  - user: |
+      Do you sell phones?
+    intent: product_search
+  - action: action_search_product
+
+# --- Multi-turn: Initial + Refinement ---
+- story: Multi-turn refinement - voltage added
+  steps:
+  - user: |
+      I need a switch
+    intent: product_search
+  - action: action_search_product
+  - user: |
+      Make it 250V
+    intent: product_search
+  - action: action_search_product
+
+- story: Multi-turn refinement - type added
+  steps:
+  - user: |
+      Show me a switch under 5A
+    intent: product_search
+  - action: action_search_product
+  - user: |
+      Prefer rocker type
+    intent: product_search
+  - action: action_search_product
+
+- story: Multi-turn refinement - mounting added
+  steps:
+  - user: |
+      Need something rated above 10A
+    intent: product_search
+  - action: action_search_product
+  - user: |
+      Panel mount would be good
+    intent: product_search
+  - action: action_search_product
+
+# --- Edge Cases ---
+- story: Unknown product name
+  steps:
+  - user: |
+      Show me specs for XZ-9999 turbo switch
+    intent: product_search
+  - action: action_search_product
+
+- story: Too generic query
+  steps:
+  - user: |
+      I want a product
+    intent: product_search
+  - action: action_search_product
+
+- story: Very specific unmatched filter
+  steps:
+  - user: |
+      Give me a SPDT snap-in switch above 1000V and 100A
+    intent: product_search
+  - action: action_search_product

@@ -1,0 +1,72 @@
+version: "3.1"
+
+rules:
+
+- rule: Say goodbye anytime the user says goodbye
+  steps:
+    - intent: goodbye
+    - action: utter_goodbye
+
+- rule: Say 'I am a bot' anytime the user challenges
+  steps:
+    - intent: bot_challenge
+    - action: utter_iamabot
+
+- rule: Respond to specific product details request
+  steps:
+    - intent: ask_product_details
+    - action: action_search_product
+
+- rule: Respond to general product search with filters
+  steps:
+    - intent: product_search
+    - action: action_search_product
+
+- rule: Respond when user is feeling good
+  steps:
+    - intent: mood_great
+    - action: utter_mood_great
+
+- rule: Respond to friendly or general conversation
+  steps:
+    - intent: chitchat
+    - action: utter_chitchat
+
+- rule: Respond to thank you
+  steps:
+    - intent: thank_you
+    - action: utter_thank_you
+
+- rule: Handle user frustration
+  steps:
+    - intent: mood_unhappy
+    - action: utter_mood_unhappy
+
+- rule: Respond to greeting
+  steps:
+    - intent: greet
+    - action: utter_greet
+
+# Optional fallback rule
+- rule: Fallback for low confidence intent
+  steps:
+    - intent: nlu_fallback
+    - action: utter_iamabot
+
+# Context-aware rule: Respond when user refers to the same product again
+- rule: Follow-up on same product
+  steps:
+    - intent: ask_same_product
+    - action: utter_repeat_product_info
+
+# Context-aware rule: User asks about voltage of previously discussed product
+- rule: Follow-up question about voltage
+  steps:
+    - intent: ask_product_voltage
+    - action: utter_voltage_info
+
+# Context-aware rule: User asks about current of previously discussed product
+- rule: Follow-up question about current
+  steps:
+    - intent: ask_related_current
+    - action: utter_current_info

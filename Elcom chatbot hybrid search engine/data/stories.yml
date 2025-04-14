@@ -1,0 +1,48 @@
+version: "3.1"
+
+stories:
+
+- story: basic product search
+  steps:
+    - intent: greet
+    - action: utter_greet
+    - intent: ask_product_info
+      entities:
+        - description: "spdt"
+        - mounting_type: "panel"
+        - voltage: "250"
+        - current: "6"
+    - action: action_search_product
+    - intent: thank_you
+    - action: utter_thank_you
+
+- story: follow-up on same product (context reuse)
+  steps:
+    - intent: ask_product_info
+      entities:
+        - description: "rocker"
+        - voltage: "250"
+    - action: action_search_product
+    - intent: ask_product_voltage
+    - action: utter_voltage_info
+    - intent: ask_related_current
+    - action: utter_current_info
+
+- story: ask again for same product
+  steps:
+    - intent: ask_product_info
+      entities:
+        - description: "dpdt"
+    - action: action_search_product
+    - intent: ask_same_product
+    - action: utter_repeat_product_info
+
+- story: fuzzy product request
+  steps:
+    - intent: ask_product_info
+      entities:
+        - description: "snap-in"
+        - current: "10"
+    - action: action_search_product
+    - intent: affirm
+    - action: utter_happy

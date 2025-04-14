@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Could you tell me the amp rating?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "current",
+        "start": 22,
+        "end": 25,
+        "confidence_entity": 0.6968648433685303,
+        "value": "amp",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "text": "What’s the current rating?",
+    "intent": "ask_product_current",
+    "intent_prediction": {
+      "name": "goodbye",
+      "confidence": 0.18301984667778015
+    }
+  }
+]

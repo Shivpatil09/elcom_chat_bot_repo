@@ -1,0 +1,21 @@
+version: "3.1"
+
+nlu:
+
+- intent: product_search
+  examples: |
+    - Tell me about RS-1601 switch
+    - I need a 16A rocker switch, panel mount, 250V
+    - Show me SPDT switch under 6A
+    - Looking for a DPDT rotary switch above 5 amps
+    - Need chassis mount switch less than 250V
+    - Do you sell phones?
+    - I need a switch
+    - Make it 250V
+    - Show me a switch under 5A
+    - Prefer rocker type
+    - Need something rated above 10A
+    - Panel mount would be good
+    - Show me specs for XZ-9999 turbo switch
+    - I want a product
+    - Give me a SPDT snap-in switch above 1000V and 100A

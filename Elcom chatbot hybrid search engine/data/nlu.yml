@@ -1,0 +1,159 @@
+version: "3.1"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - hey dude
+    - good afternoon
+    - howdy
+
+- intent: goodbye
+  examples: |
+    - bye
+    - goodbye
+    - see you later
+    - have a nice day
+    - catch you later
+    - talk to you soon
+
+- intent: affirm
+  examples: |
+    - yes
+    - yup
+    - absolutely
+    - sure
+    - sounds good
+    - that’s right
+    - definitely
+
+- intent: deny
+  examples: |
+    - no
+    - nope
+    - not really
+    - I don't think so
+    - nah
+    - no way
+
+- intent: mood_great
+  examples: |
+    - I’m doing great
+    - feeling awesome
+    - wonderful
+    - perfect
+    - great
+    - I'm happy
+    - doing well
+    - I'm feeling fantastic
+
+- intent: mood_unhappy
+  examples: |
+    - I’m frustrated
+    - not finding what I need
+    - this is confusing
+    - nothing's coming up
+    - I'm sad
+    - not good
+    - unhappy
+    - you're not helping
+    - I'm not happy with this
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you human?
+    - who made you?
+    - is this a live person?
+    - are you real?
+    - do you work for Elcom?
+    - are you an AI?
+    - is this an automated assistant?
+    - how do you work?
+    - are you a machine?
+
+- intent: thank_you
+  examples: |
+    - thank you
+    - thanks a lot
+    - appreciate it
+    - that helped
+    - cheers
+    - much appreciated
+    - thanks for your help
+
+- intent: chitchat
+  examples: |
+    - what can you do?
+    - can I just chat with you?
+    - you're smart
+    - do you understand everything?
+    - how’s your day?
+    - do you only help with products?
+    - I'm fine, what about you?
+    - I'm good. How are you?
+    - All good here, you?
+    - Doing great, and you?
+    - Just wanted to talk
+    - Can we have a casual talk?
+    - Let's chat
+    - I'm just here to talk
+    - Nothing serious, just chatting
+
+# Product intent grouping
+
+- intent: ask_product_details
+  examples: |
+    - Tell me about RS-1601
+    - I need information on RS-3-X
+    - What is the rated current for IRS-16?
+    - Can you help with the RSF-11 model?
+    - Give me the specs of RS-3X
+    - What does RS-3-X offer?
+
+- intent: product_search
+  examples: |
+    - Do you have a [250V](voltage) [rocker](description) switch?
+    - I'm looking for a [SPDT](description) switch
+    - Which products support [16A](current)?
+    - Show me switches with [panel](mounting_type) mounting
+    - Recommend me a [DPDT](description) switch
+    - I need a [snap-in](mounting_type) mounted switch with [4A](current)
+    - I want a switch rated for [250 volts](voltage)
+    - Any [rocker](description) switch rated [16 amp](current)?
+    - Do you have [rotary](description) switches with [chassis](mounting_type) mount?
+    - Looking for a [4 amp](current) [SPDT](description) model
+
+- intent: ask_same_product
+  examples: |
+    - What’s the current for that?
+    - And the voltage?
+    - What about its mounting type?
+    - What are its features?
+    - Can you show the specs again?
+    - Tell me more about that one
+    - Give me details for the last product
+
+- intent: ask_product_current
+  examples: |
+    - What’s the current rating?
+    - How much current can it handle?
+    - Current spec?
+    
+
+- intent: ask_product_features
+  examples: |
+    - What are its extra features?
+    - Does it have any special features?
+    - List its unique characteristics
+
+- intent: ask_product_voltage
+  examples: |
+    - What’s the voltage rating?
+    - How many volts is it rated for?
+    - Voltage spec?

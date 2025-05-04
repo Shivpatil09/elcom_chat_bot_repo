@@ -14,12 +14,20 @@ intents:
   - ask_same_product
   - ask_product_voltage
   - ask_related_current
+  - product_search
+  - ask_product_details
+  - ask_product_current
+  - ask_product_features
 
 entities:
   - voltage
   - current
   - description
   - mounting_type
+  - product_type
+  - category
+  - compliance
+  - temperature
 
 responses:
   utter_greet:
@@ -64,6 +72,9 @@ responses:
 
   utter_current_info:
     - text: "You're referring to a current rating of {last_current}A. Should I show related products?"
+
+  utter_product_search:
+    - text: "Let me search our catalog for products matching your query."
 
 actions:
   - action_search_product
@@ -123,6 +134,29 @@ slots:
     mappings:
       - type: custom
 
+  product_type:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: custom
+
+  category:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: custom
+
+  compliance:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: custom
+
+  temperature:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: custom
 
 session_config:
   session_expiration_time: 60

@@ -22,6 +22,11 @@ rules:
     - intent: product_search
     - action: action_search_product
 
+- rule: Respond to general product info request
+  steps:
+    - intent: ask_product_info
+    - action: action_search_product
+
 - rule: Respond when user is feeling good
   steps:
     - intent: mood_great

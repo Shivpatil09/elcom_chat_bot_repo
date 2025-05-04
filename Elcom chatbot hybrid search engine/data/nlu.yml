@@ -29,7 +29,7 @@ nlu:
     - absolutely
     - sure
     - sounds good
-    - that’s right
+    - that's right
     - definitely
 
 - intent: deny
@@ -43,7 +43,7 @@ nlu:
 
 - intent: mood_great
   examples: |
-    - I’m doing great
+    - I'm doing great
     - feeling awesome
     - wonderful
     - perfect
@@ -54,7 +54,7 @@ nlu:
 
 - intent: mood_unhappy
   examples: |
-    - I’m frustrated
+    - I'm frustrated
     - not finding what I need
     - this is confusing
     - nothing's coming up
@@ -93,7 +93,7 @@ nlu:
     - can I just chat with you?
     - you're smart
     - do you understand everything?
-    - how’s your day?
+    - how's your day?
     - do you only help with products?
     - I'm fine, what about you?
     - I'm good. How are you?
@@ -115,6 +115,10 @@ nlu:
     - Can you help with the RSF-11 model?
     - Give me the specs of RS-3X
     - What does RS-3-X offer?
+    - Details about RS-6/IRS-16 Series
+    - Information on RS/IRS-602 Series
+    - Tell me about RS/IRS-1602 Series
+    - What are the specs of RS-601 Series?
 
 - intent: product_search
   examples: |
@@ -128,10 +132,47 @@ nlu:
     - Any [rocker](description) switch rated [16 amp](current)?
     - Do you have [rotary](description) switches with [chassis](mounting_type) mount?
     - Looking for a [4 amp](current) [SPDT](description) model
+    - Show me [panel](mounting_type) mounted switches with [6A](current) rating
+    - I need a [DPST](description) switch for [250V](voltage)
+    - Looking for [rocker](description) switches with [CE](compliance) certification
+    - Do you have switches that operate in [-25°C TO +85°C](temperature) range?
+
+- intent: ask_product_info
+  examples: |
+    - Show me EV connectors
+    - I need EMI RFI filters
+    - Looking for fuse holders
+    - What Basic PDU options do you have?
+    - Show me power distribution units
+    - I need terminal blocks
+    - Looking for power supplies
+    - What circuit breakers do you offer?
+    - Show me power strips
+    - I need surge protectors
+    - Looking for power cords
+    - What power switches do you have?
+    - Show me power meters
+    - I need power indicators
+    - Looking for power relays
+    - Show me solid state relays
+    - I need proximity sensors
+    - Looking for motion sensors
+    - What terminal connectors do you have?
+    - Show me power filters
+    - I need power controllers
+    - Looking for power adapters
+    - What power cables do you offer?
+    - Show me power displays
+    - I need power protection devices
+    - Looking for power accessories
+    - What power holders do you have?
+    - Show me power brackets
+    - I need power covers
+    - Looking for power adapters
 
 - intent: ask_same_product
   examples: |
-    - What’s the current for that?
+    - What's the current for that?
     - And the voltage?
     - What about its mounting type?
     - What are its features?
@@ -141,7 +182,7 @@ nlu:
 
 - intent: ask_product_current
   examples: |
-    - What’s the current rating?
+    - What's the current rating?
     - How much current can it handle?
     - Current spec?
     
@@ -154,6 +195,6 @@ nlu:
 
 - intent: ask_product_voltage
   examples: |
-    - What’s the voltage rating?
+    - What's the voltage rating?
     - How many volts is it rated for?
     - Voltage spec?

@@ -1,0 +1,5554 @@
+[
+  {
+    "Product Name": "RS-6/IRS-16 Series",
+    "Description": "Rocker switch, DPST",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "RS-6-5/ IRS-6-5 : 6A, RS-16/IRS-16 : 16A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-61058-1, UL-1054",
+    "Other Features": {
+      "Knob": [
+        "Black/Red/Green"
+      ],
+      "Function": [
+        "ON-OFF / ON-ON (RS-6/16)",
+        "ON-OFF (for IRS 16)"
+      ]
+    }
+  },
+  {
+    "Product Name": "RS-3-X Series",
+    "Description": "Rocker switch, SPST/SPDT",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "6A/16A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-61058-1, UL-1054",
+    "Other Features": {
+      "Knob": [
+        "Black/Red"
+      ],
+      "Function": [
+        "ON-OFF",
+        "ON-ON",
+        "ON-OFF-ON",
+        "(ON)-OFF",
+        "ON-(OFF)",
+        "(ON)-OFF-ON"
+      ]
+    }
+  },
+  {
+    "Product Name": "RS-2 / IRS 1",
+    "Description": "Rocker Switch ,DPST",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "4A / 6A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-61058-1, UL-1054",
+    "Other Features": {
+      "Knob": [
+        "Non-Illuminated: Red/Black/Green"
+      ],
+      "Illuminated": [
+        "Red/Amber/Green"
+      ],
+      "Function": [
+        "ON-OFF"
+      ]
+    }
+  },
+  {
+    "Product Name": "RS-601 Series ",
+    "Description": "Rocker switch, SPDT",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "6A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-61058-1, UL-1054",
+    "Other Features": {
+      "Knob": [
+        "Nylon Non-Illuminated : Black",
+        "Red.",
+        "Function : ON-OFF / ON-ON"
+      ]
+    }
+  },
+  {
+    "Product Name": "RS-1601 Series",
+    "Description": "Rocker switch, SPDT",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "5A/16A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-61058-1, UL-1054",
+    "Other Features": {
+      "Knob": [
+        "Black/Red/Green"
+      ],
+      "Function": [
+        "ON-OFF / ON-ON (RS-6/16)",
+        "ON-OFF (for IRS 16)"
+      ]
+    }
+  },
+  {
+    "Product Name": "RS/IRS-602 Series",
+    "Description": "Rocker switch, DPDT",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "5A/6A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-61058-1, UL-1054",
+    "Other Features": {
+      "Knob": [
+        "Non-Illuminated : Black/Red",
+        "Illuminated : Red/Green/Amber"
+      ],
+      "Function": [
+        "ON-ON",
+        "(RS)"
+      ]
+    }
+  },
+  {
+    "Product Name": "RS/IRS-1602 Series",
+    "Description": "Rocker switch, DPDT",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "5A/16A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-61058-1, UL-1054",
+    "Other Features": {
+      "Knob": [
+        "Non-Illuminated : Black/Red",
+        "Illuminated : Red/Green/Amber"
+      ],
+      "Function": [
+        "ON-ON",
+        "(RS)"
+      ]
+    }
+  },
+  {
+    "Product Name": "RSF-11 Series",
+    "Description": "Rocker switch, SPST",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "4A, 6A,16A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-61058-1, UL-1054",
+    "Other Features": {
+      "Knob": [
+        "Non-Illuminated : Black/Red"
+      ],
+      "Function": [
+        "ON-OFF",
+        "ON-ON",
+        "ON-OFF-ON",
+        "(ON)-OFF",
+        "ON-(OFF)"
+      ]
+    }
+  },
+  {
+    "Product Name": "RSF-12 Series",
+    "Description": "Rocker switch, SPDT",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "4A / 6A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-61058-1, UL-1054",
+    "Other Features": {
+      "Knob": [
+        "Non-Illuminated : Black/Red"
+      ],
+      "Function": [
+        "ON-ON",
+        "(ON)-ON"
+      ]
+    }
+  },
+  {
+    "Product Name": "RSF-21 Series",
+    "Description": "Rocker Switch ,DPST",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "4A / 6A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-61058-1, UL-1054",
+    "Other Features": {
+      "Knob": [
+        "Non-Illuminated : Black/Red"
+      ],
+      "Function": [
+        "ON-OFF"
+      ]
+    }
+  },
+  {
+    "Product Name": "RSF-22 Series",
+    "Description": "Rocker Switch,DPDT",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "4A / 6A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-61058-1, UL-1054",
+    "Other Features": {
+      "Knob": [
+        "Non-Illuminated : Black/Red"
+      ],
+      "Function": [
+        "ON-ON"
+      ]
+    }
+  },
+  {
+    "Product Name": "SS-6/16 Series / ISS-6/16 Series",
+    "Description": "Rocker Switch,SPST",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "SS-6-5/ISS-6-5 : 6A  , SS-16-5/ISS-16-5 : 16A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-61058-1, UL-1054",
+    "Other Features": {
+      "Function": [
+        "ON-OFF",
+        "ON-ON",
+        "-ON-OFF-ON",
+        "(ON)-OFF",
+        "ON-(OFF) (SS-6-16) ON-OFF ( ISS-6/16)"
+      ],
+      "Knob": [
+        "Non Illuminated : Red/Black/Green"
+      ]
+    }
+  },
+  {
+    "Product Name": "ERS-1 Series",
+    "Description": "Rotary Switch",
+    "Rated Voltage": "125V AC/250V AC",
+    "Rated Current": "4A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel, Screw-type",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-61058-1, UL-1054",
+    "Other Features": {
+      "1.1 ERS 111\n      Function": [
+        "ON/OF\n      Shaft Colour: Grey\n1.2 ERS 112\n        Function : 2 Speed\n       Shaft Colour: Blue\n1.3 ERS 113\n        Function : 3 Speed\n        Shaft Colour: Black\n1.4 ERS 114\n        Function: 4 Speed\n        Shaft Colour: White\n1.5 ERS 114M\n        Function: 4 Speed",
+        "L-1",
+        "L-1+2",
+        "L-2\n        Shaft Colour: White"
+      ]
+    }
+  },
+  {
+    "Product Name": "ERS-115 Series",
+    "Description": "Rotary Switch",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "4A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Chassis with screw",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-61058-1, UL-1054",
+    "Other Features": {
+      "Function": [
+        "4 Position",
+        "OFF",
+        "L-1",
+        "L-1+2",
+        "L-2+3"
+      ],
+      "Shaft color": [
+        "White"
+      ]
+    }
+  },
+  {
+    "Product Name": "ERS-20 Series (ERS-2013, ERS-2015)",
+    "Description": "Binary coded Rotary switch, 22.5\u00b0 Indexing",
+    "Rated Voltage": "50V AC/DC",
+    "Rated Current": "150mA",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel, Screw-type\n",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-61058-1, UL-1054",
+    "Other Features": {
+      "Shaft color": [
+        "Black"
+      ]
+    }
+  },
+  {
+    "Product Name": "ERS-45 Series",
+    "Description": "Rotary Switch",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "1A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": " Panel, Screw-type, PCB",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-61058-1, UL-1054",
+    "Other Features": {
+      "Shaft color": [
+        "Black"
+      ],
+      "Function": [
+        "1 Pole",
+        "5 Way"
+      ]
+    }
+  },
+  {
+    "Product Name": ".ERS-5 Series",
+    "Description": "Rotary Switch",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "150mA",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel, Screw-type, PCB",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-61058-1, UL-1054",
+    "Other Features": {
+      "Function": [
+        "5 Position",
+        "360 Deg. rotation"
+      ],
+      "Shaft color": [
+        "Black"
+      ]
+    }
+  },
+  {
+    "Product Name": "ERS-6 Series\n",
+    "Description": "Rotary Switch",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "150mA",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel, Screw-type, PCB",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-61058-1, UL-1054",
+    "Other Features": {
+      "Function": [
+        "6 Position",
+        "360 Deg. rotation"
+      ],
+      "Shaft color": [
+        "Black"
+      ]
+    }
+  },
+  {
+    "Product Name": "KLS -1 Series\n",
+    "Description": "Key Lock Switch\n",
+    "Rated Voltage": "12 V DC",
+    "Rated Current": "25mA\n",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": " IEC-61058-1",
+    "Other Features": {
+      "Function": [
+        "Key Operated Switch"
+      ]
+    }
+  },
+  {
+    "Product Name": "KLS -5 Series\n",
+    "Description": "Key Lock Switch\n",
+    "Rated Voltage": "24V DC/ 250 V AC",
+    "Rated Current": "1A / 3A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel, Screw-Type",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": " IEC-61058-2",
+    "Other Features": {
+      "Function": [
+        "Key Operated Switch",
+        "SPDT"
+      ]
+    }
+  },
+  {
+    "Product Name": "PBS-3",
+    "Description": "Push Button Switch",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10 A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel, Screw-Type",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-61058-1, UL-1054",
+    "Other Features": {}
+  },
+  {
+    "Product Name": "PBS Series (Square & Round)\n",
+    "Description": "Push Button Switch",
+    "Rated Voltage": "24V DC/ 3.5V DC\n",
+    "Rated Current": "3A / 48 mA\n",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel, Screw-Type",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-61058-1, UL-1054",
+    "Other Features": {
+      "Function": [
+        "Momentary/Latched",
+        "SPST"
+      ]
+    }
+  },
+  {
+    "Product Name": " TC Series\n",
+    "Description": "Thumb Wheel Switch\n",
+    "Rated Voltage": "50V AC/ 28V DC\n",
+    "Rated Current": "100 mA",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Snap-in Type",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-1020-5",
+    "Other Features": {}
+  },
+  {
+    "Product Name": "MS-1 Series",
+    "Description": "Micro Switch",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "4 A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Chassis with Screw, PCB Type",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-61058-1, UL-1054",
+    "Other Features": {}
+  },
+  {
+    "Product Name": "MS-2 xxxx Series\n",
+    "Description": "Micro Switch",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "6 A/ 16 A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw Type Operating, PCB Type",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-61058-1, UL-1054",
+    "Other Features": {
+      "Function": [
+        "Microswitch Momentary"
+      ]
+    }
+  },
+  {
+    "Product Name": "PCS-22 Series\n",
+    "Description": "Push Coder Switch",
+    "Rated Voltage": "50V AC/28 V DC",
+    "Rated Current": "100 mA",
+    "Compliance": NaN,
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-1020-5",
+    "Other Features": {}
+  },
+  {
+    "Product Name": "PCS-30 Series",
+    "Description": "Push Coder Switch",
+    "Rated Voltage": "50V AC/28 V DC",
+    "Rated Current": "100 mA",
+    "Compliance": NaN,
+    "Mounting Type": "Snap-in",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-1020-5",
+    "Other Features": {}
+  },
+  {
+    "Product Name": "B01 PACKAGE",
+    "Description": "EMI RFI FILTER",
+    "Rated Voltage": "120V / 250V AC",
+    "Rated Current": "1A, 3A,6A,10A",
+    "Compliance": "CE, RoHS ",
+    "Mounting Type": "Panel mounting Single Stage",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283 ",
+    "Other Features": {
+      "Inlet": [
+        "C14"
+      ],
+      "Output terminals": [
+        "Faston 6.3*0.8 /solder tab"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "B02 PACKAGE",
+    "Description": "EMI RFI FILTER",
+    "Rated Voltage": "120V / 250V AC",
+    "Rated Current": "1A, 3A,6A,10A",
+    "Compliance": "CE, RoHS ",
+    "Mounting Type": "Panel mounting Single Stage",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283 ",
+    "Other Features": {
+      "Inlet": [
+        "C14"
+      ],
+      "Output terminals": [
+        "Faston 6.3*0.8 /solder tab"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "B03 PACKAGE",
+    "Description": "EMI RFI FILTER",
+    "Rated Voltage": "120V / 250V AC",
+    "Rated Current": "1A, 3A,6A,10A",
+    "Compliance": "CE, RoHS ",
+    "Mounting Type": "Panel mounting Single Stage",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283 ",
+    "Other Features": {
+      "Inlet": [
+        "C14"
+      ],
+      "Output terminals": [
+        "Faston 6.3*0.8 /solder tab"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "B04 PACKAGE",
+    "Description": "EMI RFI FILTER",
+    "Rated Voltage": "120V / 250V AC",
+    "Rated Current": "1A, 3A,6A,10A",
+    "Compliance": "CE, RoHS ",
+    "Mounting Type": "Panel mounting Single Stage",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283 ",
+    "Other Features": {
+      "Inlet": [
+        "C14 with red illuminated switch & fuse"
+      ],
+      "Output terminals": [
+        "Faston 4.8*0.8 /solder tab"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "B05 PACKAGE",
+    "Description": "EMI RFI FILTER",
+    "Rated Voltage": "120V / 250V AC",
+    "Rated Current": "1A, 3A, 6A, 10A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel mounting Single Stage",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283 ",
+    "Other Features": {
+      "Inlet": [
+        "C14 with red non-illuminated switch & single fuse"
+      ],
+      "Output terminals": [
+        "Faston 6.3*0.8 /solder tab"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "B06 PACKAGE",
+    "Description": "EMI RFI FILTER",
+    "Rated Voltage": "120V / 250V AC",
+    "Rated Current": "1A, 3A, 6A, 10A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel mounting Single Stage",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283 ",
+    "Other Features": {
+      "Inlet": [
+        "C14 with black non-illuminated switch & single fuse"
+      ],
+      "Output terminals": [
+        "Faston 6.3*0.8 /solder tab"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "B07 PACKAGE",
+    "Description": "EMI RFI FILTER",
+    "Rated Voltage": "120V / 250V AC",
+    "Rated Current": "1A, 3A, 6A, 10A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel mounting Single Stage",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283 ",
+    "Other Features": {
+      "Inlet": [
+        "C14"
+      ],
+      "Output terminals": [
+        "Faston 6.3*0.8 /solder ta"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "B08 PACKAGE",
+    "Description": "EMI RFI FILTER",
+    "Rated Voltage": "120V / 250V AC",
+    "Rated Current": "1A, 3A, 6A,10A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel mounting Single Stage",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283 ",
+    "Other Features": {
+      "Inlet": [
+        "C14 with double fuse"
+      ],
+      "Output terminals": [
+        "Faston 6.3*0.8 /solder tab"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "B14 PACKAGE",
+    "Description": "EMI RFI FILTER",
+    "Rated Voltage": "120V / 250V AC",
+    "Rated Current": "1A, 3A, 6A,10A,15A,20A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel mounting Single Stage",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Inlet": [
+        "C20"
+      ],
+      "Output terminals": [
+        "Faston 6.3*0.8 /solder tab"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "B15 PACKAGE",
+    "Description": "EMI RFI FILTER",
+    "Rated Voltage": "120V / 250V AC",
+    "Rated Current": "1A, 3A, 6A,10A,15A,20A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel mounting Single Stage",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Inlet": [
+        "C20"
+      ],
+      "Output terminals": [
+        "Faston 6.3*0.8 /solder tab"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "B14 PACKAGE",
+    "Description": "EMI RFI FILTER",
+    "Rated Voltage": "120V / 250V AC",
+    "Rated Current": "1A, 3A, 6A,10A,15A,20A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel mounting Double Stage",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Inlet": [
+        "C20"
+      ],
+      "Output terminals": [
+        "Faston 6.3*0.8 /solder tab"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "B15 PACKAGE",
+    "Description": "EMI RFI FILTER",
+    "Rated Voltage": "120V / 250V AC",
+    "Rated Current": "1A, 3A, 6A,10A,15A,20A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel mounting Double Stage",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Inlet": [
+        "C20"
+      ],
+      "Output terminals": [
+        "Faston 6.3*0.8 /solder tab"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "D01 PACKAGE",
+    "Description": "EMI RFI FILTER",
+    "Rated Voltage": "120V / 250V AC",
+    "Rated Current": "5A, 6A,10A,15A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Cable Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Open end",
+        "Indian plug",
+        "IEC connecter"
+      ],
+      "Output terminals": [
+        "Open end",
+        "IEC connecter"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "B09 PACKAGE",
+    "Description": "EMI RFI FILTERS Chassis Filter",
+    "Rated Voltage": "120V / 250V AC",
+    "Rated Current": "16A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Faston 6.3*0.8 /solder tab"
+      ],
+      "Output terminals": [
+        "Faston 6.3*0.8 /solder tab"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "E03 PACKAGE",
+    "Description": "EMI RFI FILTER",
+    "Rated Voltage": "120V / 250V AC",
+    "Rated Current": "1A, 3A, 6A,10A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Din-Rail mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input terminals": [
+        "Wire leads"
+      ],
+      "Output terminals": [
+        "Wire leads"
+      ]
+    }
+  },
+  {
+    "Product Name": "E06 PACKAGE",
+    "Description": "EMI RFI FILTERS ",
+    "Rated Voltage": "120V / 250V AC",
+    "Rated Current": "1A, 3A, 6A,10A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Din-Rail mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input terminals": [
+        "Faston 6.3*0.8 /solder tab"
+      ],
+      "Output terminals": [
+        "Faston 6.3*0.8 /solder tab"
+      ]
+    }
+  },
+  {
+    "Product Name": "E07 PACKAGE",
+    "Description": "EMI RFI FILTERS ",
+    "Rated Voltage": "250VAC (Phase-Neutral) 440VAC (Phase-Phase)",
+    "Rated Current": "3A, 6A,10A,15A, 20A, 30A, 40A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Din-Rail mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input terminals": [
+        "Screw terminal/ Busbar terminal/ Touch Safe terminal/Wire terminal"
+      ],
+      "Output terminals": [
+        "Screw terminal/ Busbar terminal/Touch Safe terminal/Wire terminal"
+      ]
+    }
+  },
+  {
+    "Product Name": "C01 PACKAGE",
+    "Description": "EMI RFI FILTERS ",
+    "Rated Voltage": "120/250VAC",
+    "Rated Current": "1A, 3A, 6A,10A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Faston 6.3*0.8 /solder tab"
+      ],
+      "Output terminals": [
+        "Faston 6.3*0.8 /solder tab"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "C02 PACKAGE",
+    "Description": "EMI RFI FILTERS ",
+    "Rated Voltage": "120/250VAC",
+    "Rated Current": "1A, 3A, 6A,10A, 15A, 20A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Faston 6.3*0.8 /solder tab"
+      ],
+      "Output terminals": [
+        "Faston 6.3*0.8 /solder tab"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "C03 PACKAGE",
+    "Description": "EMI RFI FILTERS ",
+    "Rated Voltage": "120/250VAC",
+    "Rated Current": "1A, 3A, 6A,10A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Faston 4.8*0.8 /solder tab"
+      ],
+      "Output terminals": [
+        "Faston 4.8*0.8 /solder tab"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "C09 PACKAGE",
+    "Description": "EMI RFI FILTERS ",
+    "Rated Voltage": "120/250VAC",
+    "Rated Current": "20A, 30A, 40A, 50A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Busbar terminal"
+      ],
+      "Output terminals": [
+        "Busbar terminal"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "C02 PACKAGE ",
+    "Description": "EMI RFI FILTERS (CHASSIS MOUNTING SINGLE PHASE DOUBLE STAGE FILTER)",
+    "Rated Voltage": "120/250VAC",
+    "Rated Current": "3A, 6A, 10A, 15A, 20A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Faston 6.3*0.8 /solder tab"
+      ],
+      "Output terminals": [
+        "Faston 6.3*0.8 /solder tab"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": " C09 PACKAGE ",
+    "Description": "EMI RFI FILTERS (CHASSIS MOUNTING SINGLE PHASE DOUBLE STAGE FILTER)",
+    "Rated Voltage": "120/250VAC",
+    "Rated Current": "20A, 30A, 40A, 50A 60A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Screw terminal"
+      ],
+      "Output terminals": [
+        "Screw terminal"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": " C10 PACKAGE ",
+    "Description": "EMI RFI FILTERS (CHASSIS MOUNTING SINGLE PHASE DOUBLE STAGE FILTER)",
+    "Rated Voltage": "120/250VAC",
+    "Rated Current": "50A, 60A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Screw terminal"
+      ],
+      "Output terminals": [
+        "Screw terminal"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": " C11 PACKAGE ",
+    "Description": "EMI RFI FILTERS (CHASSIS MOUNTING SINGLE PHASE DOUBLE STAGE FILTER)",
+    "Rated Voltage": "120/250VAC",
+    "Rated Current": "80A, 100A, 120A, 150A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Screw terminal"
+      ],
+      "Output terminals": [
+        "Screw terminal"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": " C12 PACKAGE ",
+    "Description": "EMI RFI FILTERS (CHASSIS MOUNTING SINGLE PHASE DOUBLE STAGE FILTER)",
+    "Rated Voltage": "120/250VAC",
+    "Rated Current": "180A, 200A, 250A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Screw terminal"
+      ],
+      "Output terminals": [
+        "Screw terminal"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": " C35 PACKAGE ",
+    "Description": "EMI RFI FILTERS (CHASSIS MOUNTING 3 PHASE 3 WIRE FILTER (WITHOUT NEUTRAL))",
+    "Rated Voltage": "440VAC (Phase-Phase)",
+    "Rated Current": "3A, 6A,10A,15A, 20A, 30A, 40A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Screw terminal"
+      ],
+      "Output terminals": [
+        "Screw terminal"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": " C35 PACKAGE ",
+    "Description": "EMI RFI FILTERS (CHASSIS MOUNTING 3 PHASE 3 WIRE FILTER (WITHOUT NEUTRAL))",
+    "Rated Voltage": "440VAC (Phase-Phase)",
+    "Rated Current": "3A, 6A,10A,15A, 20A, 30A, 40A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Touch Safe terminal"
+      ],
+      "Output terminals": [
+        "Touch Safe terminal"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": " C37 PACKAGE ",
+    "Description": "EMI RFI FILTERS (CHASSIS MOUNTING 3 PHASE 3 WIRE FILTER)",
+    "Rated Voltage": "440VAC (Phase-Phase)",
+    "Rated Current": "50A, 60A, 80A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Screw terminal"
+      ],
+      "Output terminals": [
+        "Screw terminal"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": " C37 PACKAGE ",
+    "Description": "EMI RFI FILTERS (CHASSIS MOUNTING 3 PHASE 3 WIRE FILTER)",
+    "Rated Voltage": "440VAC (Phase-Phase)",
+    "Rated Current": "50A, 60A, 80A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Wire terminal"
+      ],
+      "Output terminals": [
+        "Wire terminal"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": " C39 PACKAGE ",
+    "Description": "EMI RFI FILTERS (CHASSIS MOUNTING 3 PHASE 3 WIRE FILTER)",
+    "Rated Voltage": "440VAC (Phase-Phase)",
+    "Rated Current": "100A, 120A, 150A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Screw terminal / Busbar terminal / Touch Safe terminal /  Wire terminal"
+      ],
+      "Output terminals": [
+        "Screw terminal / Busbar terminal / Touch Safe terminal / Wire terminal"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": " C41 PACKAGE ",
+    "Description": "EMI RFI FILTERS (CHASSIS MOUNTING 3 PHASE 3 WIRE FILTER)",
+    "Rated Voltage": "440VAC (Phase-Phase)",
+    "Rated Current": "180A, 200A, 250A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Screw terminal / Busbar terminal / Touch Safe terminal /  Wire terminal"
+      ],
+      "Output terminals": [
+        "Screw terminal / Busbar terminal / Touch Safe terminal /  Wire terminal"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "C43 PACKAGE",
+    "Description": "EMI RFI FILTERS (CHASSIS MOUNTING 3 PHASE 3 WIRE FILTER)",
+    "Rated Voltage": "440VAC (Phase-Phase)",
+    "Rated Current": "300A, 350A, 400A, 450A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Busbar terminal"
+      ],
+      "Output terminals": [
+        "Busbar terminal"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "C44 PACKAGE",
+    "Description": "EMI RFI FILTERS (CHASSIS MOUNTING 3 PHASE 3 WIRE FILTER)",
+    "Rated Voltage": "440VAC (Phase-Phase)",
+    "Rated Current": "500A, 550A, 600A, 650A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Busbar terminal"
+      ],
+      "Output terminals": [
+        "Busbar terminal"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "C57 PACKAGE",
+    "Description": "EMI RFI FILTERS (CHASSIS MOUNTING 3 PHASE 3 WIRE FILTER)",
+    "Rated Voltage": "440VAC (Phase-Phase)",
+    "Rated Current": "700A, 800A, 1000A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Busbar terminal"
+      ],
+      "Output terminals": [
+        "Busbar terminal"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "C47 PACKAGE",
+    "Description": "EMI RFI FILTERS (CHASSIS MOUNTING 3 PHASE 3 WIRE FILTER)",
+    "Rated Voltage": "440VAC (Phase-Phase)",
+    "Rated Current": "1200A, 1400A, 1600A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Busbar terminal"
+      ],
+      "Output terminals": [
+        "Busbar terminal"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "C71 PACKAGE",
+    "Description": "EMI RFI FILTERS ( CHASSIS MOUNTING 3 PHASE 4 WIRE FILTER (WITH NEUTRAL))",
+    "Rated Voltage": "250 VAC (Phase-Neutral) 440VAC (Phase-Phase)",
+    "Rated Current": "3A, 6A,10A,15A, 20A, 30A, 40A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Screw terminal"
+      ],
+      "Output terminals": [
+        "Screw terminal"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "C71 PACKAGE",
+    "Description": "EMI RFI FILTERS ( CHASSIS MOUNTING 3 PHASE 4 WIRE FILTER (WITH NEUTRAL))",
+    "Rated Voltage": "250 VAC (Phase-Neutral) 440VAC (Phase-Phase)",
+    "Rated Current": "3A, 6A,10A,15A, 20A, 30A, 40A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Busbar terminal"
+      ],
+      "Output terminals": [
+        "Busbar terminal"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "C74 PACKAGE",
+    "Description": "EMI RFI FILTERS ( CHASSIS MOUNTING 3 PHASE 4 WIRE FILTER (WITH NEUTRAL))",
+    "Rated Voltage": "250 VAC (Phase-Neutral) 440VAC (Phase-Phase)",
+    "Rated Current": "50A, 60A, 80A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Screw terminal"
+      ],
+      "Output terminals": [
+        "Screw terminal"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "C74 PACKAGE",
+    "Description": "EMI RFI FILTERS ( CHASSIS MOUNTING 3 PHASE 4 WIRE FILTER (WITH NEUTRAL))",
+    "Rated Voltage": "250 VAC (Phase-Neutral) 440VAC (Phase-Phase)",
+    "Rated Current": "50A, 60A, 80A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Busbar terminal"
+      ],
+      "Output terminals": [
+        "Busbar terminal"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "C76 PACKAGE",
+    "Description": "EMI RFI FILTERS ( CHASSIS MOUNTING 3 PHASE 4 WIRE FILTER (WITH NEUTRAL))",
+    "Rated Voltage": "250 VAC (Phase-Neutral) 440VAC (Phase-Phase)",
+    "Rated Current": "100A, 120A, 150A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Screw terminal / Busbar terminal / Touch Safe terminal /  Wire terminal"
+      ],
+      "Output terminals": [
+        "Screw terminal / Busbar terminal / Touch Safe terminal /  Wire terminal"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "C78 PACKAGE",
+    "Description": "EMI RFI FILTERS ( CHASSIS MOUNTING 3 PHASE 4 WIRE FILTER (WITH NEUTRAL))",
+    "Rated Voltage": "250 VAC (Phase-Neutral) 440VAC (Phase-Phase)",
+    "Rated Current": "180A, 200A, 250A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Screw terminal / Busbar terminal / Touch Safe terminal /  Wire terminal"
+      ],
+      "Output terminals": [
+        "Screw terminal / Busbar terminal / Touch Safe terminal /  Wire terminal"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "C83 PACKAGE",
+    "Description": "EMI RFI FILTERS ( CHASSIS MOUNTING 3 PHASE 4 WIRE FILTER (WITH NEUTRAL))",
+    "Rated Voltage": "250 VAC (Phase-Neutral) 440VAC (Phase-Phase)",
+    "Rated Current": "300A, 350A, 400A, 450A, 500A, 550A, 600A, 650A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Busbar terminal"
+      ],
+      "Output terminals": [
+        "Busbar terminal"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "C84 PACKAGE",
+    "Description": "EMI RFI FILTERS ( CHASSIS MOUNTING 3 PHASE 4 WIRE FILTER (WITH NEUTRAL))",
+    "Rated Voltage": "250 VAC (Phase-Neutral) 440VAC (Phase-Phase)",
+    "Rated Current": "700A, 800A, 1000A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "-25\u00b0C TO +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13,UL 1283",
+    "Other Features": {
+      "Input terminals": [
+        "Busbar terminal"
+      ],
+      "Output terminals": [
+        "Busbar terminal"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "A01 PACKAGE",
+    "Description": "EMI RFI FILTERS (PCB MOUNTING SINGLE PHASE FILTER)",
+    "Rated Voltage": "120/250VAC",
+    "Rated Current": "1A, 3A, 6A, 10A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "PCB Mounting",
+    "Operating Temperature ": "40\u00b0C/-25\u00b0 +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13, UL 1283 (7th Edition)",
+    "Other Features": {
+      "Input terminals": [
+        "Solder lug"
+      ],
+      "Output terminals": [
+        "Solder lug"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "A02 PACKAGE",
+    "Description": "EMI RFI FILTERS (PCB MOUNTING SINGLE PHASE FILTER)",
+    "Rated Voltage": "120/250VAC",
+    "Rated Current": "1A, 3A, 6A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "PCB Mounting",
+    "Operating Temperature ": "40\u00b0C/-25\u00b0 +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13, UL 1283 (7th Edition)",
+    "Other Features": {
+      "Input terminals": [
+        "Solder lug"
+      ],
+      "Output terminals": [
+        "Solder lug"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "A03 PACKAGE",
+    "Description": "EMI RFI FILTERS (PCB MOUNTING SINGLE PHASE FILTER)",
+    "Rated Voltage": "120/250VAC",
+    "Rated Current": "1A, 3A, 6A, 10A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "PCB Mounting",
+    "Operating Temperature ": "40\u00b0C/-25\u00b0 +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13, UL 1283 (7th Edition)",
+    "Other Features": {
+      "Input terminals": [
+        "Solder lug"
+      ],
+      "Output terminals": [
+        "Solder lug"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "A04 PACKAGE Single Phase",
+    "Description": "EMI RFI FILTERS (PCB MOUNTING SINGLE PHASE FILTER)",
+    "Rated Voltage": "120/250VAC",
+    "Rated Current": "2A, 6A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "PCB Mounting",
+    "Operating Temperature ": "40\u00b0C/-25\u00b0 +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13, UL 1283 (7th Edition)",
+    "Other Features": {
+      "Input terminals": [
+        "Solder lug"
+      ],
+      "Output terminals": [
+        "Solder lug"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "A04 PACKAGE 3 Phase",
+    "Description": "EMI RFI FILTERS (PCB MOUNTING 3 PHASE 3 WIRE FILTER ( WITHOUT NEUTRAL))",
+    "Rated Voltage": "250 VAC (Phase-Neutral) 440VAC (Phase-Phase)",
+    "Rated Current": "1A, 2A, 3A, 6A, 10A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "PCB Mounting",
+    "Operating Temperature ": "40\u00b0C/-25\u00b0 +85\u00b0C",
+    "Reference Standard": "EN60939-3:2015 & EN60939-2:2005, CSA C22.2 NO. 8-13, UL 1283 (7th Edition)",
+    "Other Features": {
+      "Input terminals": [
+        "Solder lug"
+      ],
+      "Output terminals": [
+        "Solder lug"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "C91 PACKAGE",
+    "Description": "EMI RFI FILTERS (Output Filter)",
+    "Rated Voltage": "440VAC (Phase-Phase)",
+    "Rated Current": "12A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "40\u00b0C/-25\u00b0 +85\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input terminals": [
+        "Touch safe terminal"
+      ],
+      "Output terminals": [
+        "Touch safe terminal"
+      ]
+    }
+  },
+  {
+    "Product Name": "B10 Package",
+    "Description": "EMI RFI FILTERS (CUSTOMISED FILTER)",
+    "Rated Voltage": "120/250VAC",
+    "Rated Current": "3A",
+    "Compliance": NaN,
+    "Mounting Type": "Panel mounting",
+    "Operating Temperature ": "40\u00b0C/-25\u00b0 +85\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input terminals": [
+        "Circular MIL connector"
+      ],
+      "Output terminals": [
+        "Faston 6.3 x 0.8 / solder tab"
+      ]
+    }
+  },
+  {
+    "Product Name": "C02 PACKAGE",
+    "Description": "EMI RFI FILTERS (CHASSIS MOUNTING SINGLE PHASE FILTER)",
+    "Rated Voltage": "120/250VAC",
+    "Rated Current": "1A, 3A, 6A,10A,15A, 20A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "40\u00b0C/-25\u00b0 +85\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input terminals": [
+        "Wire lead terminal"
+      ],
+      "Output terminals": [
+        "Wire lead terminal"
+      ]
+    }
+  },
+  {
+    "Product Name": "A03 PACKAGE",
+    "Description": "EMI RFI FILTERS (CHASSIS MOUNTING SINGLE PHASE FILTER)",
+    "Rated Voltage": "120/250VAC",
+    "Rated Current": "1A, 3A, 6A, 10A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "PCB Mounting",
+    "Operating Temperature ": "40\u00b0C/-25\u00b0 +85\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input terminals": [
+        "Solder lug"
+      ],
+      "Output terminals": [
+        "Solder lug",
+        "Approvals: cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "C06 PACKAGE",
+    "Description": "EMI RFI FILTERS (CHASSIS MOUNTING SINGLE PHASE FILTER)",
+    "Rated Voltage": "120/250VAC",
+    "Rated Current": "1A, 3A, 6A,10A,15A, 20A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "40\u00b0C/-25\u00b0 +85\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input terminals": [
+        "Wire lead terminal"
+      ],
+      "Output terminals": [
+        "Wire lead terminal"
+      ]
+    }
+  },
+  {
+    "Product Name": "C08 PACKAGE",
+    "Description": "EMI RFI FILTERS (CHASSIS MOUNTING SINGLE PHASE FILTER)",
+    "Rated Voltage": "120/250VAC",
+    "Rated Current": "10A, 20A, 30A,40A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "40\u00b0C/-25\u00b0 +85\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input terminals": [
+        "Busbar terminal"
+      ],
+      "Output terminals": [
+        "Busbar terminal"
+      ]
+    }
+  },
+  {
+    "Product Name": "C14 PACKAGE",
+    "Description": "EMI RFI FILTERS (CHASSIS MOUNTING SINGLE PHASE FILTER)",
+    "Rated Voltage": "120/250VAC",
+    "Rated Current": "3A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "40\u00b0C/-25\u00b0 +85\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input terminals": [
+        "Wire lead terminal"
+      ],
+      "Output terminals": [
+        "Wire lead terminal"
+      ]
+    }
+  },
+  {
+    "Product Name": "C19 PACKAGE",
+    "Description": "EMI RFI FILTERS (CHASSIS MOUNTING SINGLE PHASE FILTER)",
+    "Rated Voltage": "120/250VAC",
+    "Rated Current": "20A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "40\u00b0C/-25\u00b0 +85\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input terminals": [
+        "Screw terminal/ Busbar terminal"
+      ],
+      "Output terminals": [
+        "Screw terminal/ Busbar terminal"
+      ]
+    }
+  },
+  {
+    "Product Name": "C48 PACKAGE",
+    "Description": "EMI RFI FILTERS (CHASSICS MOUNTING 3 PHASE 3 WIRE FILTER (WITHOUT NEUTRAL))",
+    "Rated Voltage": "440VAC (Phase-Phase)",
+    "Rated Current": "25A, 40A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "40\u00b0C/-25\u00b0 +85\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input terminals": [
+        "Touch safe terminal"
+      ],
+      "Output terminals": [
+        "Touch safe terminal"
+      ]
+    }
+  },
+  {
+    "Product Name": "C49 PACKAGE",
+    "Description": "EMI RFI FILTERS (CHASSICS MOUNTING 3 PHASE 3 WIRE FILTER (WITHOUT NEUTRAL))",
+    "Rated Voltage": "440VAC (Phase-Phase)",
+    "Rated Current": "5A, 7A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "40\u00b0C/-25\u00b0 +85\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input terminals": [
+        "Touch safe terminal"
+      ],
+      "Output terminals": [
+        "Wire lead terminal"
+      ]
+    }
+  },
+  {
+    "Product Name": "C51 PACKAGE",
+    "Description": "EMI RFI FILTERS (CHASSICS MOUNTING 3 PHASE 3 WIRE FILTER (WITHOUT NEUTRAL))",
+    "Rated Voltage": "480VAC",
+    "Rated Current": "140A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "40\u00b0C/-25\u00b0 +85\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input terminals": [
+        "Touch safe terminal"
+      ],
+      "Output terminals": [
+        "Wire lead terminal"
+      ]
+    }
+  },
+  {
+    "Product Name": "C72 PACKAGE",
+    "Description": "EMI RFI FILTERS (CHASSICS MOUNTING 3 PHASE 3 WIRE FILTER (WITH NEUTRAL))",
+    "Rated Voltage": "250 VAC (Phase-Neutral) 440VAC (Phase-Phase)",
+    "Rated Current": "20A, 30A, 40A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Chassis Mounting",
+    "Operating Temperature ": "40\u00b0C/-25\u00b0 +85\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input terminals": [
+        "Touch safe terminal"
+      ],
+      "Output terminals": [
+        "Touch safe terminal"
+      ]
+    }
+  },
+  {
+    "Product Name": "A02 PACKAGE",
+    "Description": "SURGE SUPPRESSOR UNIT (Single Phase)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": NaN,
+    "Compliance": "CE, RoHS",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "40\u00b0C/-25\u00b0 +85\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Connection terminal": [
+        "Wire lead terminal"
+      ]
+    }
+  },
+  {
+    "Product Name": "A03 PACKAGE",
+    "Description": "SURGE SUPPRESSOR UNIT (3 PHASE 3 WIRE SURGE SUPPRESSOR (WITHOUT NEUTRAL))",
+    "Rated Voltage": "440V AC (Phase-Phase)",
+    "Rated Current": NaN,
+    "Compliance": "CE, RoHS",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "40\u00b0C/-25\u00b0 +85\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Connection terminal": [
+        "Wire lead terminal"
+      ]
+    }
+  },
+  {
+    "Product Name": "A03 PACKAGE",
+    "Description": "SURGE SUPPRESSOR UNIT (3 PHASE 4 WIRE SURGE SUPPRESSOR (WITH NEUTRAL))",
+    "Rated Voltage": "250 V AC (Phase-Neutral) 440VAC\n(Phase-Phase)",
+    "Rated Current": NaN,
+    "Compliance": "CE, RoHS",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "40\u00b0C/-25\u00b0 +85\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Connection terminal": [
+        "Wire lead terminal"
+      ]
+    }
+  },
+  {
+    "Product Name": "A04 PACKAGE",
+    "Description": "SURGE SUPPRESSOR UNIT (Single Phase)",
+    "Rated Voltage": "250V AC",
+    "Rated Current": NaN,
+    "Compliance": "CE, RoHS",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "40\u00b0C/-25\u00b0 +85\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Connection terminal": [
+        "Wire lead terminal"
+      ]
+    }
+  },
+  {
+    "Product Name": "A04 PACKAGE",
+    "Description": "SURGE SUPPRESSOR UNIT (3 PHASE 3 WIRE SURGE SUPPRESSOR (WITHOUT NEUTRAL))",
+    "Rated Voltage": "440V AC (Phase-Phase)",
+    "Rated Current": NaN,
+    "Compliance": "CE, RoHS",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "40\u00b0C/-25\u00b0 +85\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Connection terminal": [
+        "Wire lead terminal"
+      ]
+    }
+  },
+  {
+    "Product Name": "A04 PACKAGE",
+    "Description": "SURGE SUPPRESSOR UNIT (3 PHASE 4 WIRE SURGE SUPPRESSOR (WITH NEUTRAL))",
+    "Rated Voltage": "250 V AC (Phase-Neutral) 440VAC\n(Phase-Phase)",
+    "Rated Current": NaN,
+    "Compliance": "CE, RoHS",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "40\u00b0C/-25\u00b0 +85\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Connection terminal": [
+        "Wire lead terminal"
+      ]
+    }
+  },
+  {
+    "Product Name": "A04 PACKAGE",
+    "Description": "SURGE SUPPRESSOR UNIT (POWER CORD SINGLE PHASE SURGE SUPPRESSOR)",
+    "Rated Voltage": "250V AC",
+    "Rated Current": NaN,
+    "Compliance": "CE, RoHS",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "40\u00b0C/-25\u00b0 +85\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Connection terminal": [
+        "terminal Power cord"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMO-12-X",
+    "Description": "Power Entry Component",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10A (VDE) / 20A (UL)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "VDE",
+        "cULus"
+      ],
+      "Type": [
+        "2 Way",
+        "C13x2"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMO-11-X",
+    "Description": "Power Entry Component",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10A (VDE) / 15A (UL)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "VDE",
+        "cULus"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMO-13-X",
+    "Description": "Power Entry Component",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10A (VDE) / 20A (UL)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "VDE",
+        "cULus"
+      ],
+      "Type": [
+        "3 Way",
+        "C13x3"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMO-14-X",
+    "Description": "Power Entry Component",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10A (VDE) / 20A (UL)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "VDE",
+        "cULus"
+      ],
+      "Type": [
+        "4 Way",
+        "C13x4"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMO-15-X",
+    "Description": "Power Entry Component",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10A (VDE) / 20A (UL)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "VDE",
+        "cULus"
+      ],
+      "Type": [
+        "5 Way",
+        "C13x5"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMO-16-X",
+    "Description": "Power Entry Component",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10A (VDE) / 20A (UL)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "VDE",
+        "cULus"
+      ],
+      "Type": [
+        "6 Way",
+        "C13x6"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMO-17-X",
+    "Description": "Power Entry Component",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10A (VDE) / 20A (UL)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "VDE",
+        "cULus",
+        "Type: 7 Way",
+        "C13x7"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMO-12G-X",
+    "Description": "Power Entry Component",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10A (VDE) / 16A (UL)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "VDE",
+        "cULus"
+      ],
+      "Type": [
+        "C13x2 Gang"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMO-14G-X",
+    "Description": "Power Entry Component",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10A (VDE) / 16A (UL)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "VDE",
+        "cULus"
+      ],
+      "Type": [
+        "C13x4 Gang"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMO-16G-X",
+    "Description": "Power Entry Component",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10A (VDE) / 20A (UL)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "VDE",
+        "cULus"
+      ],
+      "Type": [
+        "C13x6 Gang"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMO-18-X",
+    "Description": "Power Entry Component ",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "16A (VDE) / 20A (UL)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "VDE",
+        "cULus"
+      ],
+      "Type": [
+        "IEC C19 TYPE OUTLET"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMO-21-X",
+    "Description": "Power Entry Component ",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10A (VDE) / 15A (UL)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Screw type",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "VDE",
+        "cULus"
+      ],
+      "Type": [
+        "IEC C13 TYPE OUTLET"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMO-28-X",
+    "Description": "Power Entry Component ",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "16A (VDE) / 20A (UL)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Screw type",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "VDE",
+        "cULus"
+      ],
+      "Type": [
+        "IEC C19 TYPE OUTLET"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMO-182-X",
+    "Description": "Power Entry Component ",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "16A (VDE) / 20A (UL)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "VDE",
+        "cULus"
+      ],
+      "Type": [
+        "C19x2 Gang",
+        "IEC C19 TYPE OUTLET"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMO-111-X SERIES",
+    "Description": "Power Entry Component ",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "15A UL & 10A IEC",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "cULus & TUV"
+      ],
+      "Type": [
+        "C19x2 Gang",
+        "IEC C19 TYPE OUTLET"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMI-40-V2",
+    "Description": "Power Entry Component ",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10A (VDE) / 15A (UL)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "cULus & TUV"
+      ],
+      "Type": [
+        "IEC C14 TYPE PLUG CONNECTOR"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMI-48-V2",
+    "Description": "Power Entry Component ",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "16A (IEC ) /20A (Extended rating)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Type": [
+        "IEC C14 TYPE PLUG CONNECTOR"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMO-40-V2",
+    "Description": "Power Entry Component ",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10A (VDE ) 15A (UL)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Type": [
+        "IEC C13 TYPE PLUG CONNECTOR"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMO-48-X",
+    "Description": "Power Entry Component ",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "16A (IEC ) /20A (Extended rating)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Type": [
+        "IEC C19 TYPE PLUG CONNECTOR"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMI-10-X",
+    "Description": "Power Entry Component ",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10A (VDE ) 15A (UL)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "VDE",
+        "cULus"
+      ],
+      "Type": [
+        "IEC C14 TYPE INLETS"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMI-11-X",
+    "Description": "Power Entry Component ",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10A ",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "cULus"
+      ],
+      "Type": [
+        "IEC C14 TYPE INLETS"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMI-12-X",
+    "Description": "Power Entry Component ",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "4A/6A/10A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "cULus"
+      ],
+      "Type": [
+        "IEC C14 TYPE INLETS"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMI-14-X",
+    "Description": "Power Entry Component ",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10A (VDE ) 15A (UL)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "VDE",
+        "cULus"
+      ],
+      "Type": [
+        "IEC C14 TYPE INLETS"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMI-20-X",
+    "Description": "Power Entry Component ",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10A (VDE ) 15A (UL)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Screw type",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "VDE",
+        "cULus"
+      ],
+      "Type": [
+        "IEC C14 TYPE INLETS"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMI-21-X",
+    "Description": "Power Entry Component ",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Screw type",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "cULus"
+      ],
+      "Type": [
+        "IEC C14 TYPE INLETS"
+      ],
+      "Functions": [
+        "Inlet With Fuse Holder"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMI-21-DF",
+    "Description": "Power Entry Component ",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Screw type",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "cULus"
+      ],
+      "Type": [
+        "IEC C14 TYPE INLETS"
+      ],
+      "Functions": [
+        "Inlet With Double Fuse Holder"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMI-24-X",
+    "Description": "Power Entry Component ",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10A (VDE ) 15A (UL)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Screw type",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "VDE",
+        "cULus"
+      ],
+      "Type": [
+        "IEC C14 TYPE INLETS"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMI-24-H",
+    "Description": "Power Entry Component ",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10A (VDE ) 15A (UL)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Screw type",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Type": [
+        "IEC C14 TYPE INLETS"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMI-30-X",
+    "Description": "Power Entry Component ",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10A (VDE ) 15A (UL)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "PCB & Panel snap-in type",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "VDE",
+        "cULus"
+      ],
+      "Type": [
+        "IEC C14 TYPE INLETS"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMI-18-X",
+    "Description": "Power Entry Component ",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "16A (VDE ) 20A (UL)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "VDE",
+        "cULus"
+      ],
+      "Type": [
+        "IEC C20 TYPE INLETS"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMI-28-X",
+    "Description": "Power Entry Component ",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "16A (VDE ) 20A (UL)",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel, Screw type",
+    "Operating Temperature ": "0 To 65\u00b0C (UL) {* Also available up to 125\u00b0C on request for UL only} 0 To 70\u00b0C (VDE)",
+    "Reference Standard": "IEC 60320-1, IEC 60320-3, UL-498, CSA:C22.2 No. 182.3",
+    "Other Features": {
+      "Approvals": [
+        "VDE",
+        "cULus"
+      ],
+      "Type": [
+        "IEC C20 TYPE INLETS"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMO-6-X",
+    "Description": "Power Entry Component  Indian Socket",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "6A",
+    "Compliance": "ISI, CE, RoHS",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "0\u00b0C TO 70\u00b0C",
+    "Reference Standard": "IS:1293, IEC-60884-1",
+    "Other Features": {
+      "Type": [
+        "Indian Socket",
+        "3 Pin"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMO-61-X",
+    "Description": "Power Entry Component  Indian Socket",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "16A / 6A",
+    "Compliance": "ISI, CE, RoHS",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "0\u00b0C TO 70\u00b0C",
+    "Reference Standard": "IS:1293, IEC-60884-1",
+    "Other Features": {
+      "Type": [
+        "Indian Socket",
+        "6 Pin"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMO-63 Series",
+    "Description": "Power Entry Component  Indian Socket",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "6A",
+    "Compliance": "ISI, CE, RoHS",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "0\u00b0C TO 70\u00b0C",
+    "Reference Standard": "IS:1293, IEC-60884-1",
+    "Other Features": {
+      "Type": [
+        "Indian Socket",
+        "3 Pin"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMO-71 SERIES",
+    "Description": "Power Entry Component  UNIVERSAL SOCKET",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "13A",
+    "Compliance": "ISI, CE, RoHS",
+    "Mounting Type": "Panel, Snap-in",
+    "Operating Temperature ": "0\u00b0C TO 70\u00b0C",
+    "Reference Standard": "IS:1293, IEC-60884-1",
+    "Other Features": {
+      "Type": [
+        "UNIVERSAL SOCKET",
+        "3 Pin"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMO-72-4",
+    "Description": "Power Entry Component  UNIVERSAL SOCKET",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "20A",
+    "Compliance": "ISI, CE, RoHS",
+    "Mounting Type": "Push-in type",
+    "Operating Temperature ": "0\u00b0C TO 70\u00b0C",
+    "Reference Standard": "IS:1293, IEC-60884-1",
+    "Other Features": {
+      "Type": [
+        "UNIVERSAL SOCKET",
+        "3 Pin"
+      ]
+    }
+  },
+  {
+    "Product Name": "ME-2/PC",
+    "Description": "SOLENOID (DIN) CONNECTORS Curved Plug",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "2P+E Solenoid (DIN) connector style A"
+      ],
+      "Center Distance": [
+        "18 mm"
+      ],
+      "Approvals": [
+        "VDE ( On Request )"
+      ]
+    }
+  },
+  {
+    "Product Name": "ME-3/PC",
+    "Description": "SOLENOID (DIN) CONNECTORS Curved Plug",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "3P+E Solenoid (DIN) connector style A"
+      ],
+      "Center Distance": [
+        "18 mm"
+      ],
+      "Approvals": [
+        "VDE ( On Request )"
+      ]
+    }
+  },
+  {
+    "Product Name": "ME-2/PF",
+    "Description": "SOLENOID (DIN) CONNECTORS FLAT PLUG",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "2P+E Solenoid (DIN) connector style A"
+      ],
+      "Center Distance": [
+        "18 mm"
+      ],
+      "Approvals": [
+        "VDE ( On Request )"
+      ]
+    }
+  },
+  {
+    "Product Name": "ME-3/PF",
+    "Description": "SOLENOID (DIN) CONNECTORS FLAT PLUG",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "3P+E Solenoid (DIN) connector style A"
+      ],
+      "Center Distance": [
+        "18 mm"
+      ],
+      "Approvals": [
+        "VDE ( On Request )"
+      ]
+    }
+  },
+  {
+    "Product Name": "MER-2/PF SERIES",
+    "Description": "SOLENOID (DIN) CONNECTORS FLAT PLUG",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "16A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "2P+E Solenoid (DIN) connector style B"
+      ],
+      "Center Distance": [
+        "11 mm"
+      ],
+      "Approvals": [
+        "VDE ( On Request )"
+      ]
+    }
+  },
+  {
+    "Product Name": "MEM-2/PF 8",
+    "Description": "SOLENOID (DIN) CONNECTORS FLAT PLUG",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "6A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "2P+E Solenoid (DIN) connector style C"
+      ],
+      "Center Distance": [
+        "8 mm"
+      ],
+      "Approvals": [
+        "cULus ( On Request )"
+      ]
+    }
+  },
+  {
+    "Product Name": "MEM-3/PF 8",
+    "Description": "SOLENOID (DIN) CONNECTORS FLAT PLUG",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "6A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "3P+E Solenoid (DIN) connector style C"
+      ],
+      "Center Distance": [
+        "8 mm"
+      ],
+      "Approvals": [
+        "cULus ( On Request )"
+      ]
+    }
+  },
+  {
+    "Product Name": "MEM-2/PF 9",
+    "Description": "SOLENOID (DIN) CONNECTORS FLAT PLUG",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "6A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "2P+E Solenoid (DIN) connector style C"
+      ],
+      "Center Distance": [
+        "9.4 mm"
+      ],
+      "Approvals": [
+        "NA"
+      ]
+    }
+  },
+  {
+    "Product Name": "MEM-3/PF 9",
+    "Description": "SOLENOID (DIN) CONNECTORS FLAT PLUG",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "6A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "3P+E Solenoid (DIN) connector style C"
+      ],
+      "Center Distance": [
+        "9.4 mm"
+      ],
+      "Approvals": [
+        "NA"
+      ]
+    }
+  },
+  {
+    "Product Name": "MEM-3/PR-8",
+    "Description": "SOLENOID (DIN) CONNECTORS MICRO (ROUND) PLUG",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "6A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "3P+E Solenoid (DIN) connector style C"
+      ],
+      "Center Distance": [
+        "8 mm"
+      ],
+      "Approvals": [
+        "cULus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ME-209/S",
+    "Description": "SOLENOID (DIN) CONNECTORS MICRO (ROUND) PLUG PG-9",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "2P+E",
+        "Socket",
+        "Solenoid (DIN) connector style A",
+        "Non-illuminated"
+      ],
+      "Center Distance": [
+        "18 mm"
+      ],
+      "Approvals": [
+        "VDE ( On Request )"
+      ]
+    }
+  },
+  {
+    "Product Name": "ME-211/S",
+    "Description": "SOLENOID (DIN) CONNECTORS MICRO (ROUND) PLUG PG-11",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "2P+E",
+        "Socket",
+        "Solenoid (DIN) connector style A",
+        "Non-illuminated"
+      ],
+      "Center Distance": [
+        "18 mm"
+      ],
+      "Approvals": [
+        "VDE ( On Request )"
+      ],
+      "Mounting Screw size": [
+        "M3x30mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "ME-211/SL",
+    "Description": "SOLENOID (DIN) CONNECTORS MICRO (ROUND) PLUG PG-11",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "2P+E",
+        "Socket Solenoid (DIN) connector style A",
+        "illuminated"
+      ],
+      "Center Distance": [
+        "18 mm"
+      ],
+      "Approvals": [
+        "VDE ( On Request )"
+      ],
+      "Mounting Screw size": [
+        "M3x30mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "ME-309/S",
+    "Description": "SOLENOID (DIN) CONNECTORS MICRO (ROUND) PLUG PG-9",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "2P+E",
+        "Socket",
+        "Solenoid (DIN) connector style A",
+        "Non-illuminated"
+      ],
+      "Center Distance": [
+        "18 mm"
+      ],
+      "Approvals": [
+        "VDE ( On Request )"
+      ],
+      "Mounting Screw size": [
+        "M3x30mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "ME-309/SL",
+    "Description": "SOLENOID (DIN) CONNECTORS MICRO (ROUND) PLUG PG-9",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "3P+E",
+        "Socket Solenoid (DIN) connector style A",
+        "illuminated"
+      ],
+      "Center Distance": [
+        "18 mm"
+      ],
+      "Approvals": [
+        "VDE ( On Request )"
+      ],
+      "Mounting Screw size": [
+        "M3x30mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "ME-311/S",
+    "Description": "SOLENOID (DIN) CONNECTORS MICRO (ROUND) PLUG PG-11",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "3P+E",
+        "Socket",
+        "Solenoid (DIN) connector style A",
+        "Non-illuminated"
+      ],
+      "Center Distance": [
+        "18 mm"
+      ],
+      "Approvals": [
+        "VDE ( On Request )"
+      ],
+      "Mounting Screw size": [
+        "M3x30mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "ME-311/SL",
+    "Description": "SOLENOID (DIN) CONNECTORS MICRO (ROUND) PLUG PG-11",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "3P+E",
+        "Socket Solenoid (DIN) connector style A",
+        "illuminated"
+      ],
+      "Center Distance": [
+        "18 mm"
+      ],
+      "Approvals": [
+        "VDE ( On Request )"
+      ],
+      "Mounting Screw size": [
+        "M3x30mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "HD-209/S",
+    "Description": "SOLENOID (DIN) CONNECTORS MICRO (ROUND) PLUG PG-9",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "3P+E",
+        "Socket Solenoid (DIN) connector style A",
+        "Non-illuminated"
+      ],
+      "Center Distance": [
+        "18 mm"
+      ],
+      "Approvals": [
+        "VDE ( On Request )"
+      ],
+      "Mounting Screw size": [
+        "M3x35mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "HD-209/SL",
+    "Description": "SOLENOID (DIN) CONNECTORS MICRO (ROUND) PLUG PG-9",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "2P+E",
+        "Socket Solenoid (DIN) connector style A",
+        "Non-illuminated"
+      ],
+      "Center Distance": [
+        "18 mm"
+      ],
+      "Approvals": [
+        "VDE ( On Request )"
+      ],
+      "Mounting Screw size": [
+        "M3x35mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "HD-211/S",
+    "Description": "SOLENOID (DIN) CONNECTORS MICRO (ROUND) PLUG PG-11",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "2P+E",
+        "Socket Solenoid (DIN) connector style A",
+        "Non-illuminated"
+      ],
+      "Center Distance": [
+        "18 mm"
+      ],
+      "Approvals": [
+        "VDE ( On Request )"
+      ],
+      "Mounting Screw size": [
+        "M3x35mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "HD-211/SL",
+    "Description": "SOLENOID (DIN) CONNECTORS MICRO (ROUND) PLUG PG-11",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "2P+E",
+        "Socket Solenoid (DIN) connector style A",
+        "Non-illuminated"
+      ],
+      "Center Distance": [
+        "18 mm"
+      ],
+      "Approvals": [
+        "VDE ( On Request )"
+      ],
+      "Mounting Screw size": [
+        "M3x35mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "HD-309/S",
+    "Description": "SOLENOID (DIN) CONNECTORS MICRO (ROUND) PLUG PG-9",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "3P+E",
+        "Socket Solenoid (DIN) connector style A",
+        "Non-illuminated"
+      ],
+      "Center Distance": [
+        "18 mm"
+      ],
+      "Approvals": [
+        "VDE ( On Request )"
+      ],
+      "Mounting Screw size": [
+        "M3x35mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "HD-309/SL",
+    "Description": "SOLENOID (DIN) CONNECTORS MICRO (ROUND) PLUG PG-9",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "3P+E",
+        "Socket Solenoid (DIN) connector style A",
+        "illuminated"
+      ],
+      "Center Distance": [
+        "18 mm"
+      ],
+      "Approvals": [
+        "VDE ( On Request )"
+      ],
+      "Mounting Screw size": [
+        "M3x35mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "HD-311/S",
+    "Description": "SOLENOID (DIN) CONNECTORS MICRO (ROUND) PLUG PG-11",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "3P+E",
+        "Socket Solenoid (DIN) connector style A",
+        "illuminated"
+      ],
+      "Center Distance": [
+        "18 mm"
+      ],
+      "Approvals": [
+        "VDE ( On Request )"
+      ],
+      "Mounting Screw size": [
+        "M3x35mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "HD-311/SL",
+    "Description": "SOLENOID (DIN) CONNECTORS MICRO (ROUND) PLUG PG-11",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "3P+E",
+        "Socket Solenoid (DIN) connector style A",
+        "Non-illuminated"
+      ],
+      "Center Distance": [
+        "18 mm"
+      ],
+      "Approvals": [
+        "VDE ( On Request )"
+      ],
+      "Mounting Screw size": [
+        "M3x35mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "MER-209/S",
+    "Description": "SOLENOID (DIN) CONNECTORS MICRO (ROUND) PLUG PG-9",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "16A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "2P+E",
+        "Socket Solenoid (DIN) connector style B",
+        "Non-illuminated"
+      ],
+      "Center Distance": [
+        "11 mm"
+      ],
+      "Approvals": [
+        "VDE ( On Request )"
+      ],
+      "Mounting Screw size": [
+        "M3x35mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "MER-209/SL",
+    "Description": "SOLENOID (DIN) CONNECTORS MICRO (ROUND) PLUG PG-9",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "16A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "2P+E",
+        "Socket Solenoid (DIN) connector style B",
+        "illuminated"
+      ],
+      "Center Distance": [
+        "11mm"
+      ],
+      "Approvals": [
+        "VDE ( On Request )"
+      ],
+      "Mounting Screw size": [
+        "M3x35mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "MEM-207/S-8",
+    "Description": "SOLENOID (DIN) CONNECTORS MICRO (ROUND) PLUG PG-7",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "6A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "2P+E",
+        "Socket Solenoid (DIN) connector style C",
+        "Non-illuminated"
+      ],
+      "Center Distance": [
+        "8 mm"
+      ],
+      "Approvals": [
+        "cULus (On request)"
+      ],
+      "Mounting Screw size": [
+        "M2.5x27mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "MEM-307/S-8",
+    "Description": "SOLENOID (DIN) CONNECTORS MICRO (ROUND) PLUG PG-7",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "6A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "3P+E",
+        "Socket Solenoid (DIN) connector style C",
+        "Non-illuminated"
+      ],
+      "Center Distance": [
+        "8 mm"
+      ],
+      "Approvals": [
+        "cULus (On request)"
+      ],
+      "Mounting Screw size": [
+        "M2.5x27mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "MEM-207/S-9",
+    "Description": "SOLENOID (DIN) CONNECTORS MICRO (ROUND) PLUG PG-7",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "6A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "2P+E",
+        "Socket Solenoid (DIN) connector style C",
+        "Non-illuminated"
+      ],
+      "Center Distance": [
+        "9.4 mm"
+      ],
+      "Approvals": [
+        "NA"
+      ],
+      "Mounting Screw size": [
+        "M3x28.40mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "MEM-307/S-9",
+    "Description": "SOLENOID (DIN) CONNECTORS MICRO (ROUND) PLUG PG-7",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "6A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Screw mounting",
+    "Operating Temperature ": "-40\u00b0C TO +120\u00b0C",
+    "Reference Standard": "DIN-43650, ISO 4400, EN-175301-803",
+    "Other Features": {
+      "Connector Type": [
+        "3P+E",
+        "Socket Solenoid (DIN) connector style C",
+        "Non-illuminated"
+      ],
+      "Center Distance": [
+        "9.4 mm"
+      ],
+      "Approvals": [
+        "NA"
+      ],
+      "Mounting Screw size": [
+        "M3x28.40mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENP-LD5-20",
+    "Description": "NEMA CONNECTORS (TWIST LOCK PLUGS)",
+    "Rated Voltage": "125V AC",
+    "Rated Current": "20A",
+    "Compliance": "RoHS",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "0\u00b0C TO 75\u00b0C",
+    "Reference Standard": "UL-498, NEMA WD 6, CSA C22.2 No.42-10",
+    "Other Features": {
+      "Connector Type": [
+        "Twist lock L5-20P type"
+      ],
+      "Approvals": [
+        "cULus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENP-LD6-20",
+    "Description": "NEMA CONNECTORS (TWIST LOCK PLUGS)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "20A",
+    "Compliance": "RoHS",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "0\u00b0C TO 75\u00b0C",
+    "Reference Standard": "UL-498, NEMA WD 6, CSA C22.2 No.42-10",
+    "Other Features": {
+      "Connector Type": [
+        "Twist lock L6-20P type"
+      ],
+      "Approvals": [
+        "cULus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENP-LD5-30",
+    "Description": "NEMA CONNECTORS (TWIST LOCK PLUGS)",
+    "Rated Voltage": "125V AC",
+    "Rated Current": "30A",
+    "Compliance": "RoHS",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "0\u00b0C TO 75\u00b0C",
+    "Reference Standard": "UL-498, NEMA WD 6, CSA C22.2 No.42-10",
+    "Other Features": {
+      "Connector Type": [
+        "Twist lock L5-30P type"
+      ],
+      "Approvals": [
+        "cULus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENP-LD6-30",
+    "Description": "NEMA CONNECTORS (TWIST LOCK PLUGS)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "30A",
+    "Compliance": "RoHS",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "0\u00b0C TO 75\u00b0C",
+    "Reference Standard": "UL-498, NEMA WD 6, CSA C22.2 No.42-10",
+    "Other Features": {
+      "Connector Type": [
+        "Twist lock L6-30P type"
+      ],
+      "Approvals": [
+        "cULus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENP-LD21-20",
+    "Description": "NEMA CONNECTORS (TWIST LOCK PLUGS)",
+    "Rated Voltage": "208V AC",
+    "Rated Current": "20A",
+    "Compliance": "RoHS",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "0\u00b0C TO 75\u00b0C",
+    "Reference Standard": "UL-498, NEMA WD 6, CSA C22.2 No.42-10",
+    "Other Features": {
+      "Connector Type": [
+        "Twist lock L21-20P type"
+      ],
+      "Approvals": [
+        "cULus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENP-LD21-30",
+    "Description": "NEMA CONNECTORS (TWIST LOCK PLUGS)",
+    "Rated Voltage": "208V AC",
+    "Rated Current": "30A",
+    "Compliance": "RoHS",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "0\u00b0C TO 75\u00b0C",
+    "Reference Standard": "UL-498, NEMA WD 6, CSA C22.2 No.42-10",
+    "Other Features": {
+      "Connector Type": [
+        "Twist lock L21-30P type"
+      ],
+      "Approvals": [
+        "cULus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENO-0515-33-X",
+    "Description": "NEMA CONNECTORS (3 GANG RECEPTACLE)",
+    "Rated Voltage": "125V AC",
+    "Rated Current": "15A",
+    "Compliance": "RoHS",
+    "Mounting Type": "Panel, Snap mounting",
+    "Operating Temperature ": "0\u00b0C TO 75\u00b0C",
+    "Reference Standard": "UL-498, NEMA WD 6, CSA C22.2 NO. 182.3",
+    "Other Features": {
+      "Connector Type": [
+        "5-15R Type"
+      ],
+      "Approvals": [
+        "cULus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENO-0515-43-X",
+    "Description": "NEMA CONNECTORS (3 GANG RECEPTACLE)",
+    "Rated Voltage": "125V AC",
+    "Rated Current": "15A",
+    "Compliance": "RoHS",
+    "Mounting Type": "Panel, Snap mounting",
+    "Operating Temperature ": "0\u00b0C TO 75\u00b0C",
+    "Reference Standard": "UL-498, NEMA WD 6, CSA C22.2 NO. 182.3",
+    "Other Features": {
+      "Connector Type": [
+        "5-15R Type"
+      ],
+      "Approvals": [
+        "cULus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENO-0520-33-X",
+    "Description": "NEMA CONNECTORS (3 GANG RECEPTACLE)",
+    "Rated Voltage": "125V AC",
+    "Rated Current": "20A",
+    "Compliance": "RoHS",
+    "Mounting Type": "Panel, Snap mounting",
+    "Operating Temperature ": "0\u00b0C TO 75\u00b0C",
+    "Reference Standard": "UL-498, NEMA WD 6, CSA C22.2 NO. 182.3",
+    "Other Features": {
+      "Connector Type": [
+        "5-20R Type"
+      ],
+      "Approvals": [
+        "cULus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENO-0520-43-X",
+    "Description": "NEMA CONNECTORS (4 GANG RECEPTACLE)",
+    "Rated Voltage": "125V AC",
+    "Rated Current": "20A",
+    "Compliance": "RoHS",
+    "Mounting Type": "Panel, Snap mounting",
+    "Operating Temperature ": "0\u00b0C TO 75\u00b0C",
+    "Reference Standard": "UL-498, NEMA WD 6, CSA C22.2 NO. 182.3",
+    "Other Features": {
+      "Connector Type": [
+        "5-20R Type"
+      ],
+      "Approvals": [
+        "cULus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENO-1112",
+    "Description": "NEMA CONNECTORS (NEMA RECEPTACLE)",
+    "Rated Voltage": "125V AC",
+    "Rated Current": "20A",
+    "Compliance": "RoHS",
+    "Mounting Type": "Panel, Snap mounting",
+    "Operating Temperature ": "0\u00b0C TO 75\u00b0C",
+    "Reference Standard": "UL-498, NEMA WD 6, CSA C22.2 NO. 182.3",
+    "Other Features": {
+      "Connector Type": [
+        "5-20R Type"
+      ],
+      "Approvals": [
+        "cULus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENO-3112 SERIES",
+    "Description": "NEMA CONNECTORS (NEMA TWIST LOCK RECEPTACLE)",
+    "Rated Voltage": "125V AC",
+    "Rated Current": "20A",
+    "Compliance": "RoHS",
+    "Mounting Type": "Panel, Screw-type",
+    "Operating Temperature ": "0\u00b0C TO 65\u00b0C",
+    "Reference Standard": "UL-498, UL-486E, NEMA WD 6, CAN/CSA C22.2 No.0-M91, CSA C22.2 No.42-99",
+    "Other Features": {
+      "Connector Type": [
+        "L5-20R Type"
+      ],
+      "Approvals": [
+        "cULus",
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENO-3113 SERIES",
+    "Description": "NEMA CONNECTORS (NEMA TWIST LOCK RECEPTACLE)",
+    "Rated Voltage": "125V AC",
+    "Rated Current": "30A",
+    "Compliance": "RoHS",
+    "Mounting Type": "Panel, Screw-type",
+    "Operating Temperature ": "0\u00b0C TO 65\u00b0C",
+    "Reference Standard": "UL-498, UL-486E, NEMA WD 6, CAN/CSA C22.2 No.0-M91, CSA C22.2 No.42-99",
+    "Other Features": {
+      "Connector Type": [
+        "L5-30R Type"
+      ],
+      "Approvals": [
+        "cULus",
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENO-3112-R, ENO-3112-F-R",
+    "Description": "NEMA CONNECTORS (NEMA TWIST LOCK RECEPTACLE)",
+    "Rated Voltage": "125V AC",
+    "Rated Current": "30A",
+    "Compliance": "RoHS",
+    "Mounting Type": "Panel, Screw-type",
+    "Operating Temperature ": "0\u00b0C TO 65\u00b0C",
+    "Reference Standard": "UL-498, UL-486E, NEMA WD 6, CAN/CSA C22.2 No.0-M91, CSA C22.2 No.42-99",
+    "Other Features": {
+      "Connector Type": [
+        "L5-30R Type"
+      ],
+      "Approvals": [
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENO-3122 SERIES",
+    "Description": "NEMA CONNECTORS (NEMA TWIST LOCK RECEPTACLE)",
+    "Rated Voltage": "250V",
+    "Rated Current": "20A",
+    "Compliance": "RoHS",
+    "Mounting Type": "Panel, Screw-type",
+    "Operating Temperature ": "0\u00b0C TO 65\u00b0C",
+    "Reference Standard": "UL-498, UL-486E, NEMA WD 6, CAN/CSA C22.2 No.0-M91, CSA C22.2 No.42-99",
+    "Other Features": {
+      "Connector Type": [
+        "L6-20R Type"
+      ],
+      "Approvals": [
+        "cULus",
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENO-3122-P-X",
+    "Description": "NEMA CONNECTORS (NEMA TWIST LOCK RECEPTACLE-PCB TERMINAL)",
+    "Rated Voltage": "250V",
+    "Rated Current": "20A",
+    "Compliance": "RoHS",
+    "Mounting Type": "Panel, Screw-type",
+    "Operating Temperature ": "0\u00b0C TO 65\u00b0C",
+    "Reference Standard": "UL-498, UL-486E, NEMA WD 6, CAN/CSA C22.2 No.0-M91, CSA C22.2 No.42-99",
+    "Other Features": {
+      "Connector Type": [
+        "Twist lock L6-20R PCB type"
+      ],
+      "Approvals": [
+        "cULus approval"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENO-3123 SERIES",
+    "Description": "NEMA CONNECTORS (NEMA TWIST LOCK RECEPTACLE-PCB TERMINAL)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "30A",
+    "Compliance": "RoHS",
+    "Mounting Type": "Panel, Screw-type",
+    "Operating Temperature ": "0\u00b0C TO 65\u00b0C",
+    "Reference Standard": "UL-498, UL-486E, NEMA WD 6, CAN/CSA C22.2 No.0-M91, CSA C22.2 No.42-99",
+    "Other Features": {
+      "Connector Type": [
+        "Twist lock L6-30R PCB type"
+      ],
+      "Approvals": [
+        "cULus",
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENO-3123-P-X",
+    "Description": "NEMA CONNECTORS (NEMA TWIST LOCK RECEPTACLE-PCB TERMINAL)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "30A",
+    "Compliance": "RoHS",
+    "Mounting Type": "Panel, Screw-type",
+    "Operating Temperature ": "0\u00b0C TO 65\u00b0C",
+    "Reference Standard": "UL-498, UL-486E, NEMA WD 6, CAN/CSA C22.2 No.0-M91, CSA C22.2 No.42-99",
+    "Other Features": {
+      "Connector Type": [
+        "Twist lock L6-30R PCB Mounted type"
+      ],
+      "Approvals": [
+        "cULus",
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENO-3123X",
+    "Description": "NEMA CONNECTORS (NEMA TWIST LOCK RECEPTACLE)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "30A",
+    "Compliance": "RoHS",
+    "Mounting Type": "Panel, Screw-type",
+    "Operating Temperature ": "0\u00b0C TO 65\u00b0C",
+    "Reference Standard": "UL-498, UL-486E, NEMA WD 6, CAN/CSA C22.2 No.0-M91, CSA C22.2 No.42-99",
+    "Other Features": {
+      "Connector Type": [
+        "Twist lock L6-30R type"
+      ],
+      "Approvals": [
+        "cULus",
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENO-4123",
+    "Description": "NEMA CONNECTORS (NEMA TWIST LOCK RECEPTACLE)",
+    "Rated Voltage": "125/250 V",
+    "Rated Current": "30A",
+    "Compliance": "RoHS",
+    "Mounting Type": "Panel, Screw-type",
+    "Operating Temperature ": "0\u00b0C TO 65\u00b0C",
+    "Reference Standard": "UL-498, UL-486E, NEMA WD 6, CAN/CSA C22.2 No.0-M91, CSA C22.2 No.42-99",
+    "Other Features": {
+      "Connector Type": [
+        "Twist lock L14-30R type"
+      ],
+      "Approvals": [
+        "cULus",
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENO-3123-F",
+    "Description": "NEMA CONNECTORS (NEMA SOCKET)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "30A",
+    "Compliance": "RoHS",
+    "Mounting Type": "Panel, Screw-type",
+    "Operating Temperature ": "0\u00b0C TO 65\u00b0C",
+    "Reference Standard": "UL-498, UL-486E, NEMA WD 6, CAN/CSA C22.2 No.0-M91, CSA C22.2 No.42-99",
+    "Other Features": {
+      "Connector Type": [
+        "Twist lock L6-30R type"
+      ],
+      "Approvals": [
+        "cULus",
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENO-3113-F",
+    "Description": "NEMA CONNECTORS (NEMA SOCKET)",
+    "Rated Voltage": "125 V",
+    "Rated Current": "30A",
+    "Compliance": "RoHS",
+    "Mounting Type": "Panel, Screw-type",
+    "Operating Temperature ": "0\u00b0C TO 65\u00b0C",
+    "Reference Standard": "UL-498, UL-486E, NEMA WD 6, CAN/CSA C22.2 No.0-M91, CSA C22.2 No.42-99",
+    "Other Features": {
+      "Connector Type": [
+        "Twist lock L5-30R type"
+      ],
+      "Approvals": [
+        "cULus",
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENO-0515-11-X, ENO-0515-12-X",
+    "Description": "NEMA CONNECTORS (NEMA SOCKET IDC TYPE)",
+    "Rated Voltage": "125 V",
+    "Rated Current": "15A",
+    "Compliance": "RoHS",
+    "Mounting Type": "Panel, Screw-type",
+    "Operating Temperature ": "0\u00b0C TO 65\u00b0C",
+    "Reference Standard": "UL-498, UL-486E, NEMA WD 6, CAN/CSA C22.2 No.0-M91, CSA C22.2 No.42-99",
+    "Other Features": {
+      "Connector Type": [
+        "Nema 5-15R"
+      ],
+      "Approvals": [
+        "cULus",
+        "cCSAus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENO-0520-11-X, ENO-0520-12-X",
+    "Description": "NEMA CONNECTORS (NEMA SOCKET IDC TYPE)",
+    "Rated Voltage": "125 V",
+    "Rated Current": "20A",
+    "Compliance": "RoHS",
+    "Mounting Type": "Panel, Screw-type",
+    "Operating Temperature ": "0\u00b0C TO 65\u00b0C",
+    "Reference Standard": "UL-498, UL-486E, NEMA WD 6, CAN/CSA C22.2 No.0-M91, CSA C22.2 No.42-100",
+    "Other Features": {
+      "Connector Type": [
+        "Nema 5-20R"
+      ],
+      "Approvals": [
+        "cULus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ENO-1111-X",
+    "Description": "NEMA CONNECTORS (NEMA SOCKET IDC TYPE)",
+    "Rated Voltage": "125 V",
+    "Rated Current": "15A",
+    "Compliance": "RoHS",
+    "Mounting Type": "Panel, Screw-type",
+    "Operating Temperature ": "0\u00b0C TO 65\u00b0C",
+    "Reference Standard": "UL-498, UL-486E, NEMA WD 6, CAN/CSA C22.2 No.0-M91, CSA C22.2 No.42-100",
+    "Other Features": {
+      "Connector Type": [
+        "Nema 5-15R"
+      ],
+      "Approvals": [
+        "cULus"
+      ]
+    }
+  },
+  {
+    "Product Name": "FH-1 / FH-1D",
+    "Description": "FUSE HOLDERS (PANEL MOUNTING)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "6.3A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel",
+    "Operating Temperature ": "-20\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-60127-6",
+    "Other Features": {
+      "Fuse Link": [
+        "5x20mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "FH-1S",
+    "Description": "FUSE HOLDERS (PANEL MOUNTING)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "6.3A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel, Snap mounting",
+    "Operating Temperature ": "-20\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-60127-6",
+    "Other Features": {
+      "Fuse Link": [
+        "5x20mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "FH-2",
+    "Description": "FUSE HOLDERS (CHASSIS MOUNTING)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "6.3A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Chassis, Screw-type",
+    "Operating Temperature ": "-20\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-60127-6",
+    "Other Features": {
+      "Fuse Link": [
+        "5x20mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "FH-3",
+    "Description": "FUSE HOLDERS (CHASSIS MOUNTING)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Chassis, Screw-type",
+    "Operating Temperature ": "-20\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-60127-6",
+    "Other Features": {
+      "Fuse Link": [
+        "6.3x32mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "FH-5 SERIES",
+    "Description": "FUSE HOLDERS (PANEL MOUNTING)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel",
+    "Operating Temperature ": "-20\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-60127-6",
+    "Other Features": {
+      "Fuse Link": [
+        "6.3x32mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "FH-52 SERIES",
+    "Description": "FUSE HOLDERS (PANEL MOUNTING)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "20A, 30 A DC",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel",
+    "Operating Temperature ": "-20\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-60127-6",
+    "Other Features": {
+      "Fuse Link": [
+        "6.3x32mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "FH-6",
+    "Description": "FUSE HOLDERS (PANEL MOUNTING)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel",
+    "Operating Temperature ": "-20\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-60127-6",
+    "Other Features": {
+      "Fuse Link": [
+        "6.3x32mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "FH-7",
+    "Description": "FUSE HOLDERS (PANEL MOUNTING)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "6.30A / 10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel",
+    "Operating Temperature ": "-20\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-60127-6",
+    "Other Features": {
+      "Fuse Link": [
+        "5x20mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "PFH-9",
+    "Description": "FUSE HOLDERS (PANEL MOUNTING)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "6.3A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel, Snap-In, with coin slot cap",
+    "Operating Temperature ": "-20\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-60127-6",
+    "Other Features": {
+      "Fuse Link": [
+        "5x20mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "PFH-511",
+    "Description": "FUSE HOLDERS (PANEL MOUNTING)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Panel, Screw-in",
+    "Operating Temperature ": "-20\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-60127-6",
+    "Other Features": {
+      "Fuse Link": [
+        "5x20mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "PBF-1",
+    "Description": "FUSE HOLDERS (PCB MOUNTING)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "6.3 A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "PCB-type",
+    "Operating Temperature ": "-20\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-60127-6",
+    "Other Features": {
+      "Fuse Link": [
+        "5x20mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "PBF-14",
+    "Description": "FUSE HOLDERS (PCB MOUNTING)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "6.3 A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "PCB-type",
+    "Operating Temperature ": "-20\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-60127-6",
+    "Other Features": {
+      "Fuse Link": [
+        "5x20mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "PBF-2, PBF-2/M,PBF-3",
+    "Description": "FUSE HOLDERS (PCB MOUNTING)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "6.3A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "PCB-type",
+    "Operating Temperature ": "-20\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-60127-7",
+    "Other Features": {
+      "Fuse Link": [
+        "5x20mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "PBF-4",
+    "Description": "FUSE HOLDERS (PCB MOUNTING)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "6.3A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "PCB-type, CapHolder with protection Cap",
+    "Operating Temperature ": "-20\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-60127-7",
+    "Other Features": {
+      "Fuse Link": [
+        "5x20mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "PBF-5",
+    "Description": "FUSE HOLDERS (PCB MOUNTING)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "PCB-type",
+    "Operating Temperature ": "-20\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-60127-7",
+    "Other Features": {
+      "Fuse Link": [
+        "6.3x32mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "HFH-1",
+    "Description": "FUSE HOLDERS (HANGING TYPE)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "4A - 10 A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Hanging",
+    "Operating Temperature ": "-20\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-60127-7",
+    "Other Features": {
+      "Fuse Link": [
+        "5x20mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "HFH-5",
+    "Description": "FUSE HOLDERS (HANGING TYPE)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "12 A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": "Hanging",
+    "Operating Temperature ": "-20\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-60127-7",
+    "Other Features": {
+      "Fuse Link": [
+        "6.3x32mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "MF-20",
+    "Description": "FUSE HOLDERS (CHASSIS MOUNTING)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10A",
+    "Compliance": NaN,
+    "Mounting Type": "Chassis, Screw-type",
+    "Operating Temperature ": "-20\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-60127-7",
+    "Other Features": {
+      "Fuse Link": [
+        "6.3x32mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "EPC1314M-SERIES",
+    "Description": "POWER CORDS (MOULDED 3-PIN INDIAN PLUG WITH IEC CONNECTOR)",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10A",
+    "Compliance": "CE, RoHS (on request)",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "-20\u00b0C TO 70\u00b0C",
+    "Reference Standard": "IEC-60320-1, IEC-60320-3, IEC 60799",
+    "Other Features": {
+      "Combination": [
+        "1) Cord with IEC 13 & C 14 Moulded Connector 2) Cord with IEC 13 Moulded Connector & other end open 3) Cord with IEC 14 Moulded Connector & other end open"
+      ],
+      "Length": [
+        "As per customer requirement"
+      ],
+      "Color": [
+        "Black ( Standard)",
+        "Red/Blue/Yellow ( On request )"
+      ]
+    }
+  },
+  {
+    "Product Name": "EPC-6-SERIES",
+    "Description": "POWER CORDS (MOULDED 3-PIN INDIAN PLUG WITH IEC CONNECTOR)",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "6/10A",
+    "Compliance": "ISI, CE, RoHS ( On Request )",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "-20\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IS-1293, IEC-60884-1, IEC-60799, IES-60227, IEC-60320-1",
+    "Other Features": {
+      "Combination": [
+        "1).6A Indian Plug with one end open 2) 6A Indian Plug with one C13 Moulded Conn 3) 6A Indian Plug with one C13 Moulded 90\u00b0 bend"
+      ],
+      "Length": [
+        "As per customer requirement"
+      ]
+    }
+  },
+  {
+    "Product Name": "MC -2/X-MT & MCE -2/X-MT",
+    "Description": "POWER CORDS (MOULDED 3-PIN INDIAN PLUG WITH IEC CONNECTOR)",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "4/6 A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "-20\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC-60320-1, IEC-60320-3, IEC 60799, IEC-60227",
+    "Other Features": {
+      "Combination": [
+        "Cable with Mains connector"
+      ]
+    }
+  },
+  {
+    "Product Name": "EPC-16 ",
+    "Description": "POWER CORDS (MOULDED 3-PIN INDIAN PLUG WITH IEC CONNECTOR)",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "10/16 A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "-20\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IS-1293, IEC-60884-1, IEC-60799  ,  IES-60227, IEC-60320-1 \n\n",
+    "Other Features": {
+      "Combination": [
+        "1) 16A Indian Plug with one end open. 2) 16A Indian Plug with one end C19  3) 16A Indian Plug with one end C13  Rated Current  4) 16A Indian Plug with one end C20"
+      ],
+      "Length": [
+        "As per customer requirement"
+      ],
+      "Approval": [
+        "ISI (On request",
+        "for 16A)"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMC-8 Series",
+    "Description": "POWER CORDS (MOULDED 3-PIN INDIAN PLUG WITH IEC CONNECTOR)",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "6/10A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "-20\u00b0C TO 70\u00b0C",
+    "Reference Standard": "IEC-60320-3, CSA C22.2 NO.42, UL498",
+    "Other Features": {
+      "Combination": [
+        "C13 & C14 Power cord with lock option"
+      ],
+      "Locking": [
+        "V-lock / P-lock / No -lock"
+      ],
+      "Length": [
+        "As per customer requirement"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMC-9 Series",
+    "Description": "POWER CORDS (MOULDED 3-PIN INDIAN PLUG WITH IEC CONNECTOR)",
+    "Rated Voltage": "250V AC",
+    "Rated Current": "16A",
+    "Compliance": "CE, RoHS ( On Request )",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "-20\u00b0C TO 70\u00b0C",
+    "Reference Standard": "IEC-60320-3, CSA C22.2 NO.42, UL498",
+    "Other Features": {
+      "Combination": [
+        "C19 & C20 Power cord with lock option"
+      ],
+      "Locking": [
+        "V-lock / P-lock / No -lock"
+      ],
+      "Length": [
+        "As per customer requirement"
+      ]
+    }
+  },
+  {
+    "Product Name": "EWT-A-01",
+    "Description": "IDC Wiretap10AWG",
+    "Rated Voltage": "600 Volts",
+    "Rated Current": "30 A",
+    "Compliance": "RoHS",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "-25\u00b0C To 105\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Housing Color": [
+        "Grey"
+      ],
+      "Recommeded Wiring": [
+        "5.00 \u00b10.20"
+      ],
+      "Durability (Mating Cycles Max.)": [
+        "25"
+      ],
+      "Approval": [
+        "UL 486A-486B"
+      ],
+      "Compatibility to Mating part": [
+        "Firm Press Fit"
+      ]
+    }
+  },
+  {
+    "Product Name": "EWT-B-06",
+    "Description": "IDC Wiretap-12AWG",
+    "Rated Voltage": "600 Volts",
+    "Rated Current": "20 A",
+    "Compliance": "RoHS",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "-25\u00b0C To 105\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Housing Color": [
+        "Yellow"
+      ],
+      "Recommeded Wiring": [
+        "4.05 \u00b10.15"
+      ],
+      "Durability (Mating Cycles Max.)": [
+        "25"
+      ],
+      "Approval": [
+        "UL 486A-486B"
+      ],
+      "Compatibility to Mating part": [
+        "Firm Press Fit"
+      ]
+    }
+  },
+  {
+    "Product Name": "EWT-C-05",
+    "Description": "IDC Wiretap-14AWG",
+    "Rated Voltage": "600 Volts",
+    "Rated Current": "15 A",
+    "Compliance": "RoHS",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "-25\u00b0C To 105\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Housing Color": [
+        "Blue"
+      ],
+      "Recommeded Wiring": [
+        "3.50  \u00b1 0.10"
+      ],
+      "Durability (Mating Cycles Max.)": [
+        "25"
+      ],
+      "Approval": [
+        "UL 486A-486B"
+      ],
+      "Compatibility to Mating part": [
+        "Firm Press Fit"
+      ]
+    }
+  },
+  {
+    "Product Name": "BTI-15 SERIES",
+    "Description": "TERMINAL SOCKETS",
+    "Rated Voltage": "250 V",
+    "Rated Current": "15 A",
+    "Compliance": "CE, RoHS, cURus (On Request)",
+    "Mounting Type": "Panel",
+    "Operating Temperature ": "-20\u00b0C to 85\u00b0C",
+    "Reference Standard": "JSS 52710",
+    "Other Features": {
+      "Color": [
+        "Black/Red/Blue/Yellow/Green"
+      ],
+      "Terminal": [
+        "Screw-type"
+      ]
+    }
+  },
+  {
+    "Product Name": "ETI-30 SERIES",
+    "Description": "TERMINAL SOCKETS",
+    "Rated Voltage": "250 V",
+    "Rated Current": "30 A",
+    "Compliance": "CE, RoHS, cURus (On Request)",
+    "Mounting Type": "Panel",
+    "Operating Temperature ": "-20\u00b0C to 85\u00b0C",
+    "Reference Standard": "JSS 52710",
+    "Other Features": {
+      "Color": [
+        "Black/Red/Blue/Yellow/Green"
+      ],
+      "Terminal": [
+        "Screw-type"
+      ]
+    }
+  },
+  {
+    "Product Name": "EPTB-1",
+    "Description": "Terminal Blocks Series",
+    "Rated Voltage": "450 Volts",
+    "Rated Current": "63 A",
+    "Compliance": "CE, RoHS, cURus",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "-40\u00b0C to 125\u00b0C",
+    "Reference Standard": "IEC 60947-7-1,UL-486E,UL-1059,UL-1953,CSA:22.2 No.158",
+    "Other Features": {
+      "Input/Line side": [
+        "2AWG to 12AWG"
+      ],
+      "Output/Load side": [
+        "12AWG to 18AWG"
+      ],
+      "Number of Inputs": [
+        "01"
+      ],
+      "Number of outputs": [
+        "06"
+      ]
+    }
+  },
+  {
+    "Product Name": "EPTB-2",
+    "Description": "Terminal Blocks Series",
+    "Rated Voltage": "450 Volts",
+    "Rated Current": "63 A",
+    "Compliance": "CE, RoHS, cURus",
+    "Mounting Type": NaN,
+    "Operating Temperature ": "-40\u00b0C to 125\u00b0C",
+    "Reference Standard": "IEC 60947-7-1,UL-486E,UL-1059,UL-1953,CSA:22.2 No.158",
+    "Other Features": {
+      "Input/Line side": [
+        "2AWG to 12AWG"
+      ],
+      "Output/Load side": [
+        "12AWG to 18AWG"
+      ],
+      "Number of Inputs": [
+        "02"
+      ],
+      "Number of outputs": [
+        "06"
+      ]
+    }
+  },
+  {
+    "Product Name": "BS-2",
+    "Description": "Socket",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "6.3 A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel Mount,Screw type",
+    "Operating Temperature ": "-20\u00b0C to 85\u00b0C",
+    "Reference Standard": "JSS 52710",
+    "Other Features": {
+      "Plug Size": [
+        "2.00 mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "BS-10",
+    "Description": "Socket",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10 A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel Mount,Screw type",
+    "Operating Temperature ": "-20\u00b0C to 85\u00b0C",
+    "Reference Standard": "JSS 52710",
+    "Other Features": {
+      "Plug Size": [
+        "4.00 mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "BS-5",
+    "Description": "Socket",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "10 A",
+    "Compliance": "CE, RoHS",
+    "Mounting Type": "Panel Mount,Screw type",
+    "Operating Temperature ": "-20\u00b0C to 85\u00b0C",
+    "Reference Standard": "JSS 52710",
+    "Other Features": {
+      "Plug Size": [
+        "4.00 mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "ESC-4-X",
+    "Description": "SOLAR CONNECTORS (PV CABLE CONNECTOR)",
+    "Rated Voltage": "1500V DC",
+    "Rated Current": "4 & 6sqmm : 30A 2.5sqmm : 25A",
+    "Compliance": NaN,
+    "Mounting Type": NaN,
+    "Operating Temperature ": "-20\u00b0C to 85\u00b0C",
+    "Reference Standard": "IEC 62852:2014",
+    "Other Features": {
+      "Type": [
+        "4mm PV Connector"
+      ],
+      "Contact Resistance": [
+        "\u22640.35mOhms"
+      ],
+      "Degree of Protection": [
+        "IP68(IEC 60529)"
+      ],
+      "Approvals": [
+        "TUV"
+      ]
+    }
+  },
+  {
+    "Product Name": "ESC-4-UW-X",
+    "Description": "SOLAR CONNECTORS (PV CABLE CONNECTOR)",
+    "Rated Voltage": "1500V DC",
+    "Rated Current": "4 & 6sqmm : 30A 2.5sqmm : 25A",
+    "Compliance": NaN,
+    "Mounting Type": NaN,
+    "Operating Temperature ": "-20\u00b0C to 85\u00b0C",
+    "Reference Standard": "IEC 62852:2014",
+    "Other Features": {
+      "Type": [
+        "4mm With Safety Window"
+      ],
+      "Contact Resistance": [
+        "\u22640.35mOhms"
+      ],
+      "Degree of Protection": [
+        "IP68(IEC 60529)"
+      ],
+      "Approvals": [
+        "TUV"
+      ]
+    }
+  },
+  {
+    "Product Name": "ESC-4-PM-X",
+    "Description": "SOLAR CONNECTORS (PV CABLE CONNECTOR)",
+    "Rated Voltage": "1500V DC",
+    "Rated Current": "4 & 6sqmm : 30A 2.5sqmm : 25A",
+    "Compliance": NaN,
+    "Mounting Type": NaN,
+    "Operating Temperature ": "-20\u00b0C to 85\u00b0C",
+    "Reference Standard": "IEC 62852:2014",
+    "Other Features": {
+      "Type": [
+        "4mm Panel Mount"
+      ],
+      "Contact Resistance": [
+        "\u22640.35mOhms"
+      ],
+      "Degree of Protection": [
+        "IP68(IEC 60529)"
+      ],
+      "Approvals": [
+        "TUV"
+      ]
+    }
+  },
+  {
+    "Product Name": "ESC-BC-S1P2,ESC-BC-S2P1",
+    "Description": "SOLAR CONNECTORS (BRANCH CONNECTOR)",
+    "Rated Voltage": "1500V DC",
+    "Rated Current": "30A",
+    "Compliance": NaN,
+    "Mounting Type": NaN,
+    "Operating Temperature ": "-20\u00b0C to 85\u00b0C",
+    "Reference Standard": "IEC 62852:2014",
+    "Other Features": {
+      "Type": [
+        "4mm 2 way PV"
+      ],
+      "Contact Resistance": [
+        "\u22640.5mOhms"
+      ],
+      "Degree of Protection": [
+        "IP68"
+      ],
+      "Approvals": [
+        "TUV"
+      ]
+    }
+  },
+  {
+    "Product Name": "ESP-PC-X SERIES",
+    "Description": "SOLAR CONNECTORS (PLUS CONNECTOR)",
+    "Rated Voltage": "1500V DC",
+    "Rated Current": "20A-30A.",
+    "Compliance": NaN,
+    "Mounting Type": NaN,
+    "Operating Temperature ": "-40\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC 62852:2014",
+    "Other Features": {
+      "Type": [
+        "PLUS CONNECTOR"
+      ],
+      "Degree of Protection": [
+        "IP67"
+      ],
+      "Approvals": [
+        "NA"
+      ]
+    }
+  },
+  {
+    "Product Name": "ESP-PC-X SERIES",
+    "Description": "SOLAR CONNECTORS (T CONNECTOR)",
+    "Rated Voltage": "1500V DC",
+    "Rated Current": "20A-30A.",
+    "Compliance": NaN,
+    "Mounting Type": NaN,
+    "Operating Temperature ": "-40\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC 62852:2014",
+    "Other Features": {
+      "Type": [
+        "T CONNECTOR"
+      ],
+      "Degree of Protection": [
+        "IP67"
+      ],
+      "Approvals": [
+        "NA"
+      ]
+    }
+  },
+  {
+    "Product Name": "ESP-YC",
+    "Description": "SOLAR CONNECTORS (Y CONNECTOR)",
+    "Rated Voltage": "1500V DC",
+    "Rated Current": "20A-30A.",
+    "Compliance": NaN,
+    "Mounting Type": NaN,
+    "Operating Temperature ": "-40\u00b0C TO +85\u00b0C",
+    "Reference Standard": "IEC 62852:2014",
+    "Other Features": {
+      "Type": [
+        "Y CONNECTOR"
+      ],
+      "Degree of Protection": [
+        "IP67"
+      ],
+      "Approvals": [
+        "NA"
+      ]
+    }
+  },
+  {
+    "Product Name": "E-1IB-05AJ-2HX2X",
+    "Description": "BASIC PDU",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "16 A",
+    "Compliance": NaN,
+    "Mounting Type": "Horizantal (2U) Rack Mounting",
+    "Operating Temperature ": "0 \u2013 60\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Form Factor": [
+        "2U Horizontal"
+      ],
+      "Input Connection": [
+        "Power cord 1.5 Sq.mm. 3 core 3 meter\nwith moulded 3 pin 16A Indian plug"
+      ],
+      "Outlet Socket": [
+        "13A UK socket (5 Nos.)"
+      ],
+      "Color": [
+        "Ral 9005 texture"
+      ]
+    }
+  },
+  {
+    "Product Name": "E-1ND-04AK-XHX3X",
+    "Description": "BASIC PDU",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "63 A",
+    "Compliance": NaN,
+    "Mounting Type": "Horizantal (2U) Rack Mounting",
+    "Operating Temperature ": "0 \u2013 60\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Form Factor": [
+        "2U Horizontal"
+      ],
+      "Input Connection": [
+        "Power cord 10 Sq.mm. 3 core 1.5\nmeter unterminated"
+      ],
+      "Outlet Socket": [
+        "Nema L6-20R 20A (4 Nos.)"
+      ],
+      "Color": [
+        "Ral 9005 texture"
+      ]
+    }
+  },
+  {
+    "Product Name": "E-1RA-06AM-1HC1Xg",
+    "Description": "BASIC PDU",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "16 A",
+    "Compliance": NaN,
+    "Mounting Type": "Horizantal (2U) Rack Mounting",
+    "Operating Temperature ": "0 \u2013 60\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Form Factor": [
+        "2U Horizontal"
+      ],
+      "Input Connection": [
+        "Power cord 0.5 Sq.mm. 3 core 1.8 meter with moulded 3 pin 6A Indian plug"
+      ],
+      "Outlet Socket": [
+        "6A Indain socket (6 Nos.)"
+      ],
+      "Color": [
+        "Ral 9005 texture"
+      ]
+    }
+  },
+  {
+    "Product Name": "E-1IC-20AA-XHA3XW",
+    "Description": "BASIC PDU",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "32 A",
+    "Compliance": NaN,
+    "Mounting Type": "Horizantal (2U) Rack Mounting",
+    "Operating Temperature ": "0 \u2013 60\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Form Factor": [
+        "2U Horizontal"
+      ],
+      "Input Connection": [
+        "Power cord 6.0 Sq.mm. 3 core 3.0 meter unterminated"
+      ],
+      "Outlet Socket": [
+        "IEC-320 C13 (16 Nos.)&IEC-320 C19 (4 Nos.)"
+      ],
+      "Color": [
+        "Ral 9005 texture"
+      ]
+    }
+  },
+  {
+    "Product Name": "E-1II-06AE-XHJ3X",
+    "Description": "BASIC PDU",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "80 A",
+    "Compliance": NaN,
+    "Mounting Type": "Horizantal (2U) Rack Mounting",
+    "Operating Temperature ": "0 \u2013 60\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Form Factor": [
+        "Connector Horizontal"
+      ],
+      "Input Connection": [
+        "Connector"
+      ],
+      "Outlet Socket": [
+        "IEC-320 C19 (6 nos)"
+      ],
+      "Color": [
+        "Ral 9005 texture"
+      ]
+    }
+  },
+  {
+    "Product Name": "E-1RA-01AD-1HC1F",
+    "Description": "BASIC PDU",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "5 A",
+    "Compliance": NaN,
+    "Mounting Type": "Wall Mounting",
+    "Operating Temperature ": "0 \u2013 60\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input Connection": [
+        "Power cord 0.5 Sq.mm. 3 core 2.0 meter with moulded 3 pin 6A Indian plug"
+      ],
+      "Outlet Socket": [
+        "6A Indian socket (1 No.)"
+      ],
+      "Color": [
+        "Steel gray"
+      ],
+      "Features": [
+        "Fuse",
+        "EMI/RFI filter",
+        "surge suppressor"
+      ]
+    }
+  },
+  {
+    "Product Name": "E-1RA-02AB-1HC1L\n(with line status indication)",
+    "Description": "BASIC PDU",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "5 A",
+    "Compliance": NaN,
+    "Mounting Type": "Wall Mounting",
+    "Operating Temperature ": "0 \u2013 60\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input Connection": [
+        "Power cord 0.5 Sq.mm. 3 core 2.0 meter with moulded 3 pin 6A Indian plug"
+      ],
+      "Outlet Socket": [
+        "6A Indian socket (2 No.)"
+      ],
+      "Color": [
+        "Steel gray"
+      ],
+      "Features": [
+        "Line status indication",
+        "Fuse",
+        "EMI/RFI filter",
+        "surge suppressor"
+      ]
+    }
+  },
+  {
+    "Product Name": "E-1RA-03AA-1HH1F",
+    "Description": "BASIC PDU",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "5 A",
+    "Compliance": NaN,
+    "Mounting Type": "Wall Mounting",
+    "Operating Temperature ": "0 \u2013 60\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input Connection": [
+        "Power cord 0.5 Sq.mm. 3 core 2.0 meter with moulded 3 pin 6A Indian plug"
+      ],
+      "Outlet Socket": [
+        "6A Indian socket (3 No.)"
+      ],
+      "Color": [
+        "Steel gray"
+      ],
+      "Features": [
+        "Fuse",
+        "EMI/RFI filter",
+        "surge suppressor (Dedicated RCB per outlet)"
+      ]
+    }
+  },
+  {
+    "Product Name": "E-1RA-03AB-1HC1F",
+    "Description": "BASIC PDU",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "5 A",
+    "Compliance": NaN,
+    "Mounting Type": "Wall Mounting",
+    "Operating Temperature ": "0 \u2013 60\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input Connection": [
+        "Power cord 0.5 Sq.mm. 3 core 2.0 meter with moulded 3 pin 6A Indian plug"
+      ],
+      "Outlet Socket": [
+        "6A Indian socket (3 Nos.)"
+      ],
+      "Color": [
+        "Steel gray"
+      ],
+      "Features": [
+        "Fuse",
+        "EMI/RFI filter",
+        "surge suppressor"
+      ]
+    }
+  },
+  {
+    "Product Name": "E-1RA-04AA-1HB1F",
+    "Description": "BASIC PDU",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "5 A",
+    "Compliance": NaN,
+    "Mounting Type": "Wall Mounting",
+    "Operating Temperature ": "0 \u2013 60\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input Connection": [
+        "Power cord 0.5 Sq.mm. 3 core 2.0 meter with moulded 3 pin 6A Indian plug"
+      ],
+      "Outlet Socket": [
+        "6A Indian socket (4 Nos.)"
+      ],
+      "Color": [
+        "Steel gray"
+      ],
+      "Features": [
+        "Fuse",
+        "EMI/RFI filter",
+        "surge suppressor",
+        "( Dedicated switch and RCB per outlet)"
+      ]
+    }
+  },
+  {
+    "Product Name": "E-1RA-04AA-1HCEL (with line status indication)",
+    "Description": "BASIC PDU",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "5 A",
+    "Compliance": NaN,
+    "Mounting Type": "Wall Mounting",
+    "Operating Temperature ": "0 \u2013 60\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input Connection": [
+        "Power cord 0.5 Sq.mm. 3 core 1.5 meter with moulded 3 pin 6A Indian plug"
+      ],
+      "Outlet Socket": [
+        "6A Indian socket (2 Nos.)"
+      ],
+      "Color": [
+        "Steel gray"
+      ],
+      "Features": [
+        "FLine status indication",
+        "Fuse",
+        "EMI/RFI filter",
+        "surge suppressor"
+      ]
+    }
+  },
+  {
+    "Product Name": "E-1RA-06AC-1HC1X",
+    "Description": "BASIC PDU",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "5 A",
+    "Compliance": NaN,
+    "Mounting Type": "Horizantal front mounting",
+    "Operating Temperature ": "0 \u2013 60\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input Connection": [
+        "Power cord 0.5 Sq.mm. 3 core 1.8 meter with moulded 3 pin 6A Indian plug"
+      ],
+      "Outlet Socket": [
+        "6A Indian socket (6 Nos.)"
+      ],
+      "Color": [
+        "Ral 9005 Texture"
+      ]
+    }
+  },
+  {
+    "Product Name": "E-1RB-06AC-2HC1F",
+    "Description": "BASIC PDU",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "15 A",
+    "Compliance": NaN,
+    "Mounting Type": "Wall Mounting",
+    "Operating Temperature ": "0 \u2013 60\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input Connection": [
+        "Power cord 1.5 Sq.mm. 3 core 1.5 meter with moulded 3 pin 16A Indian plug"
+      ],
+      "Outlet Socket": [
+        "6A Indian socket (6 Nos.)"
+      ],
+      "Color": [
+        "Steel gray"
+      ],
+      "Features": [
+        "Fuse",
+        "EMI/RFI filter",
+        "surge suppressor"
+      ]
+    }
+  },
+  {
+    "Product Name": "E-1RF-01AA-2VA3F",
+    "Description": "BASIC PDU",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "15 A",
+    "Compliance": NaN,
+    "Mounting Type": "Wall Mounting",
+    "Operating Temperature ": "0 \u2013 60\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input Connection": [
+        "Power cord 1.5 Sq.mm. 3 core 1.5 meter with moulded 3 pin 16A Indian plug"
+      ],
+      "Outlet Socket": [
+        "10/20A white socket (1 No.)"
+      ],
+      "Color": [
+        "Steel gray"
+      ],
+      "Features": [
+        "MCB",
+        "EMI/RFI filter",
+        "surge suppressor"
+      ]
+    }
+  },
+  {
+    "Product Name": "E-1RF-06AC-2HC1F",
+    "Description": "BASIC PDU",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "15 A",
+    "Compliance": NaN,
+    "Mounting Type": "Wall Mounting",
+    "Operating Temperature ": "0 \u2013 60\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input Connection": [
+        "Power cord 1.5 Sq.mm. 3 core 1.5 meter with moulded 3 pin 16A Indian plug"
+      ],
+      "Outlet Socket": [
+        "6A Indian socket (6 Nos.)"
+      ],
+      "Color": [
+        "Steel gray"
+      ],
+      "Features": [
+        "Fuse",
+        "EMI/RFI filter",
+        "surge suppressor"
+      ]
+    }
+  },
+  {
+    "Product Name": "E-1RF-06AC-2HC7F",
+    "Description": "BASIC PDU",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "15 A",
+    "Compliance": NaN,
+    "Mounting Type": "Wall Mounting",
+    "Operating Temperature ": "0 \u2013 60\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input Connection": [
+        "power cord 1 sq.mm. 3core 3 meter with moulded 3 pin 16A Indian plug"
+      ],
+      "Outlet Socket": [
+        "6A Indian socket (6 Nos.)"
+      ],
+      "Color": [
+        "Steel gray"
+      ],
+      "Features": [
+        "Fuse",
+        "EMI/RFI filter",
+        "surge suppressor",
+        "( Dedicated switch per outlet)"
+      ]
+    }
+  },
+  {
+    "Product Name": "E-1IB-10AA-2VA3X3",
+    "Description": "BASIC PDU",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "16 A",
+    "Compliance": NaN,
+    "Mounting Type": "Vertical (0U) Rack Mounting",
+    "Operating Temperature ": "0 \u2013 60\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input Connection": [
+        "Power cord 2.5 Sq.mm. 3 core 2.5meter with rewireable 3 pin 16A Indian plug"
+      ],
+      "Outlet Socket": [
+        "IEC-320 C13 (10 Nos.)"
+      ],
+      "Color": [
+        "Ral 9005 Texture"
+      ]
+    }
+  },
+  {
+    "Product Name": "E-1IB-12AF-AVX1X",
+    "Description": "BASIC PDU",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "16 A",
+    "Compliance": NaN,
+    "Mounting Type": "Vertical (0U) Rack Mounting",
+    "Operating Temperature ": "0 \u2013 60\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input Connection": [
+        "Power cord 1.5 Sq.mm. 3 core 4.0 meter with rewireable IEC 320 C20 plug"
+      ],
+      "Outlet Socket": [
+        "IEC-320 C13 (12Nos.)"
+      ],
+      "Color": [
+        "Ral 7035 Structure"
+      ]
+    }
+  },
+  {
+    "Product Name": "E-1IC-16AA-GVA3X",
+    "Description": "BASIC PDU",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "32 A",
+    "Compliance": NaN,
+    "Mounting Type": "Vertical (0U) Rack Mounting",
+    "Operating Temperature ": "0 \u2013 60\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input Connection": [
+        "Power cord 6.0 Sq.mm. 3 core 3.5 meter with rewireable Nema 30A ENP-LD6-30 plug"
+      ],
+      "Outlet Socket": [
+        "IEC-320 C13 (12 Nos.)&IEC-320 C19 (4 Nos.)"
+      ],
+      "Color": [
+        "Ral 9005 Texture"
+      ]
+    }
+  },
+  {
+    "Product Name": "E-1IC-20AJ-5VD4XK",
+    "Description": "BASIC PDU",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "32 A",
+    "Compliance": NaN,
+    "Mounting Type": "Vertical (0U) Rack Mounting",
+    "Operating Temperature ": "0 \u2013 60\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input Connection": [
+        "Power cord 4.0 Sq.mm. 3 core 3.0 meter with rewireable IEC60309 32A 3 Pin Industrial plug"
+      ],
+      "Outlet Socket": [
+        "IEC-320 C13 (12 Nos.)&IEC-320 C19 (8 Nos.)"
+      ],
+      "Color": [
+        "Ral 9005 Texture"
+      ],
+      "Features": [
+        "Dedicated Fuse & Power on indicator per outlet."
+      ]
+    }
+  },
+  {
+    "Product Name": "E-1SC-12AC-5VX3X",
+    "Description": "BASIC PDU",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "32 A",
+    "Compliance": NaN,
+    "Mounting Type": "Vertical (0U) Rack Mounting",
+    "Operating Temperature ": "0 \u2013 60\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input Connection": [
+        "Power cord 6.0 Sq.mm. 3 core 2.0 meter with IEC 60309 Industrial plug"
+      ],
+      "Outlet Socket": [
+        "16A Schuko socket (12 nos)"
+      ],
+      "Color": [
+        "Ral 9005 Texture"
+      ],
+      "General tolerance": [
+        "+/- 2.0 mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "E-1RA-01AD-XRX1XX",
+    "Description": "BASIC PDU (DIN Rail Mounting)",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "6 A",
+    "Compliance": NaN,
+    "Mounting Type": "Din-rail Mounting",
+    "Operating Temperature ": "0 \u2013 60\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input Connection": [
+        "Power cord 0.5 Sq.mm. 3 core 1.0 meter unterminated"
+      ],
+      "Outlet Socket": [
+        "6A Indian socket (1 no.)"
+      ],
+      "Color": [
+        "Ral 9005 Texture"
+      ],
+      "General tolerance": [
+        "+/- 2.0 mm"
+      ]
+    }
+  },
+  {
+    "Product Name": "E-1RF-04AA-2HC1F",
+    "Description": "BASIC PDU ",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "15 A",
+    "Compliance": NaN,
+    "Mounting Type": "Wall Mounting",
+    "Operating Temperature ": "0 \u2013 60\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input Connection": [
+        "Power cord 1 Sq.mm. 3 core 1.5 meter with moulded 3 pin 16A Indian plug"
+      ],
+      "Outlet Socket": [
+        "6A Indian socket (4 nos.)"
+      ],
+      "Color": [
+        "Steel gray"
+      ],
+      "General tolerance": [
+        "+/- 2.0 mm"
+      ],
+      "Features": [
+        "Fuse",
+        "EMI/RFI filter",
+        "surge suppressor"
+      ]
+    }
+  },
+  {
+    "Product Name": "E-1IB-12AF-AHF4X",
+    "Description": "BASIC PDU ",
+    "Rated Voltage": "250 V AC",
+    "Rated Current": "16 A",
+    "Compliance": NaN,
+    "Mounting Type": "Horizantal (1U) Rack Mounting",
+    "Operating Temperature ": "0 \u2013 60\u00b0C",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Input Connection": [
+        "EMI C20 inlet (EMI-18)"
+      ],
+      "Outlet Socket": [
+        "C13 outlet (12 Nos)"
+      ],
+      "Color": [
+        "Ral 9005 Texture"
+      ],
+      "General tolerance": [
+        "+/- 2.0 mm"
+      ],
+      "Features": [
+        "Fuse",
+        "indicator per outlet"
+      ]
+    }
+  },
+  {
+    "Product Name": "EAM-S642A-DE336VX",
+    "Description": "I PDU (AGGREGATE METERING)",
+    "Rated Voltage": "230 V AC",
+    "Rated Current": "32 A",
+    "Compliance": "CE, cULus",
+    "Mounting Type": "Vertical (0U) Rack Mounting",
+    "Operating Temperature ": "0\u201345\u00b0C (Extended up to 65\u00b0C)",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Outlet Socket": [
+        "IEC-60320 C13 (36 Nos.) & IEC-60320 C19 (06 Nos.)"
+      ],
+      "Display": [
+        "LCD"
+      ],
+      "Approvals": [
+        "cULus"
+      ]
+    }
+  },
+  {
+    "Product Name": "EAS-S624D-DE310VX",
+    "Description": "I PDU (AGGREGATE METERING INDIVIDUAL SWITCHING)",
+    "Rated Voltage": "230 V AC",
+    "Rated Current": "32 A",
+    "Compliance": "CE, cULus",
+    "Mounting Type": "Vertical (0U) Rack Mounting",
+    "Operating Temperature ": "0\u201345\u00b0C (Extended up to 65\u00b0C)",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Outlet Socket": [
+        "IEC-60320 C13 (21 Nos.) & IEC-60320 C19 (03 Nos.)"
+      ],
+      "Display": [
+        "LCD"
+      ],
+      "Approvals": [
+        "cULus"
+      ]
+    }
+  },
+  {
+    "Product Name": "EIM-T624D-EE336VX",
+    "Description": "I PDU (INDIVIDUAL METERING)",
+    "Rated Voltage": "440 V AC",
+    "Rated Current": "32 A",
+    "Compliance": "CE, cULus",
+    "Mounting Type": "Vertical (0U) Rack Mounting",
+    "Operating Temperature ": "0\u201345\u00b0C (Extended up to 65\u00b0C)",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Outlet Socket": [
+        "IEC-60320 C13 (21 Nos.) & IEC-60320 C19 (03 Nos.)"
+      ],
+      "Display": [
+        "LCD"
+      ],
+      "Approvals": [
+        "cULus"
+      ]
+    }
+  },
+  {
+    "Product Name": "EIS-T630A-EE336VX",
+    "Description": "I PDU (INDIVIDUAL METERING INDIVIDUAL SWITCHING)",
+    "Rated Voltage": "440 V AC",
+    "Rated Current": "32 A",
+    "Compliance": "CE, cULus",
+    "Mounting Type": "Vertical (0U) Rack Mounting",
+    "Operating Temperature ": "0\u201345\u00b0C (Extended up to 65\u00b0C)",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Outlet Socket": [
+        "IEC-60320 C13 (24 Nos.) & IEC-60320 C19 (06 Nos.)"
+      ],
+      "Display": [
+        "LCD"
+      ],
+      "Approvals": [
+        "cULus"
+      ]
+    }
+  },
+  {
+    "Product Name": "ED-PT672-XE3X",
+    "Description": "I PDU (POWER MEASUREMENT DEVICE)",
+    "Rated Voltage": "440 V AC",
+    "Rated Current": "32 A",
+    "Compliance": NaN,
+    "Mounting Type": "Horizontal (1U) Rack Mounting",
+    "Operating Temperature ": "0\u201345\u00b0C (Extended up to 65\u00b0C)",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Outlet Socket": [
+        "72 Channels"
+      ],
+      "Display": [
+        "LED"
+      ]
+    }
+  },
+  {
+    "Product Name": "EMD-TH1W1S1D1-BS",
+    "Description": "I PDU (ENVIRONMENT MONITORING DEVICE)",
+    "Rated Voltage": "230 V AC",
+    "Rated Current": "16 A",
+    "Compliance": NaN,
+    "Mounting Type": "Horizontal (1U) Rack Mounting",
+    "Operating Temperature ": "0\u201345\u00b0C (Extended up to 65\u00b0C)",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Number of Sensors": [
+        "Digital Sensor Ports - 08 Nos",
+        "Analog sensor Ports - 04 Nos"
+      ],
+      "Display": [
+        "LCD"
+      ]
+    }
+  },
+  {
+    "Product Name": "EIN-T6A3-2AK-2AJH",
+    "Description": "I PDU (SINGLE INLINE METER)",
+    "Rated Voltage": "440 V AC",
+    "Rated Current": "132 A",
+    "Compliance": NaN,
+    "Mounting Type": "Horizontal (1U) Rack Mounting",
+    "Operating Temperature ": "0\u201345\u00b0C (Extended up to 65\u00b0C)",
+    "Reference Standard": NaN,
+    "Other Features": {
+      "Outlet Socket": [
+        "01 Nos(3\u0424",
+        "32Amps",
+        "IEC 60309 (3P+N+E) Ind. Socket",
+        "440VAC)"
+      ],
+      "Display": [
+        "LED"
+      ]
+    }
+  },
+  {
+    "Product Name": "XX46",
+    "Description": "PANEL MOUNT SOCKET",
+    "Rated Voltage": "250 Volts; 415 Volts",
+    "Rated Current": "16Amp;32Amp;63Amp",
+    "Compliance": NaN,
+    "Mounting Type": "Panel Mount",
+    "Operating Temperature ": NaN,
+    "Reference Standard": "IEC60309",
+    "Other Features": {
+      "Type": [
+        "Panel Mount Socket-Dust Proof"
+      ],
+     "No. of Poles": [
+        "3 Poles","5 Poles"
+      ],
+      
+      "Earth Contact Position": [
+        "6H"
+      ],
+      "Approvals": [
+        "CE",
+        "RoHS"
+      ],
+      "Degree of proctection (Mated)": [
+        "IP 44"
+      ]
+    }
+  },
+  {
+    "Product Name": "XX76",
+    "Description": "PANEL MOUNT SOCKET",
+    "Rated Voltage": "250 Volts; 415 Volts",
+    "Rated Current": "16Amp;32Amp;63Amp",
+    "Compliance": NaN,
+    "Mounting Type": "Panel Mount",
+    "Operating Temperature ": NaN,
+    "Reference Standard": "IEC60309",
+    "Other Features": {
+      "Type": [
+        "Panel Mount Socket-Water Tight"
+      ],
+     "No. of Poles": [
+        "3 Poles","5 Poles"
+      ],
+      
+      "Earth Contact Position": [
+        "6H"
+      ],
+      "Approvals": [
+        "CE",
+        "RoHS"
+      ],
+      "Degree of proctection (Mated)": [
+        "IP 67"
+      ]
+    }
+  },
+  {
+    "Product Name": "XX42",
+    "Description": "INDUSTRIAL PLUG",
+    "Rated Voltage": "250 Volts; 415 Volts",
+    "Rated Current": "16Amp;32Amp;63Amp",
+    "Compliance": NaN,
+    "Mounting Type": NaN,
+    "Operating Temperature ": NaN,
+    "Reference Standard": "IEC60309",
+    "Other Features": {
+      "Type": [
+        "Industrial Plug-Dust Proof"
+      ],
+      "No. of Poles": [
+        "3 Poles","5 Poles"
+      ],
+      
+      "Earth Contact Position": [
+        "6H"
+      ],
+      "Approvals": [
+        "CE",
+        "RoHS"
+      ],
+      "Degree of proctection (Mated)": [
+        "IP 44"
+      ]
+    }
+  },
+  {
+    "Product Name": "XX72",
+    "Description": "INDUSTRIAL PLUG",
+    "Rated Voltage": "250 Volts; 415 Volts",
+    "Rated Current": "16Amp;32Amp;63Amp",
+    "Compliance": NaN,
+    "Mounting Type": NaN,
+    "Operating Temperature ": NaN,
+    "Reference Standard": "IEC60309",
+    "Other Features": {
+      "Type": [
+        "Panel Mount Socket-Water Tight"
+      ],
+      "No. of Poles": [
+        "3 Poles","5 Poles"
+      ],
+      
+      "Earth Contact Position": [
+        "6H"
+      ],
+      "Approvals": [
+        "CE",
+        "RoHS"
+      ],
+      "Degree of proctection (Mated)": [
+        "IP 67"
+      ]
+    }
+  },
+  {
+    "Product Name": "XX48",
+    "Description": "INDUSTRIAL CONNECTORS",
+    "Rated Voltage": "250 Volts; 415 Volts",
+    "Rated Current": "16Amp;32Amp;63Amp",
+    "Compliance": NaN,
+    "Mounting Type": NaN,
+    "Operating Temperature ": NaN,
+    "Reference Standard": "IEC60309",
+    "Other Features": {
+      "Type": [
+        "Industrial Connector-Dust Proof"
+      ],
+      "No. of Poles": [
+        "3 Poles","5 Poles"
+      ],
+      
+      "Earth Contact Position": [
+        "6H"
+      ],
+      "Approvals": [
+        "CE",
+        "RoHS"
+      ],
+      "Degree of proctection (Mated)": [
+        "IP 44"
+      ]
+    }
+  },
+  {
+    "Product Name": "XX78",
+    "Description": "INDUSTRIAL CONNECTORS",
+    "Rated Voltage": "250 Volts; 415 Volts",
+    "Rated Current": "16Amp;32Amp;63Amp",
+    "Compliance": NaN,
+    "Mounting Type": NaN,
+    "Operating Temperature ": NaN,
+    "Reference Standard": "IEC60309",
+    "Other Features": {
+      "Type": [
+        "Industrial Connector-Water Tight"
+      ],
+      "No. of Poles": [
+        "3 Poles","5 Poles"
+      ],
+      
+      "Earth Contact Position": [
+        "6H"
+      ],
+      "Approvals": [
+        "CE",
+        "RoHS"
+      ],
+      "Degree of proctection (Mated)": [
+        "IP 67"
+      ]
+    }
+  },
+  {
+    "Product Name": "XX49",
+    "Description": "Wall Mount Socket ",
+    "Rated Voltage": "250 Volts; 415 Volts",
+    "Rated Current": "16Amp;32Amp;",
+    "Compliance": "NaN",
+    "Mounting Type": "WALL MOUNT ",
+    "Operating Temperature ": "NaN",
+    "Reference Standard": "IEC60309",
+    "Other Features": {
+      "Type": [
+        "Wall Mount Socket-Dust Proof"
+      ],
+      "No. of Poles": [
+        "3 Poles","5 Poles"
+      ],
+      
+      "Earth Contact Position": [
+        "6H"
+      ],
+      "Approvals": [
+        "CE",
+        "RoHS"
+      ],
+      "Degree of proctection (Mated)": [
+        "IP 44"
+      ]
+    }
+  },
+  {
+    "Product Name": "XX79",
+    "Description": "Wall Mount Socket ",
+    "Rated Voltage": "250 Volts; 415 Volts",
+    "Rated Current": "16Amp;32Amp;",
+    "Compliance": "NaN",
+    "Mounting Type": "WALL MOUNT ",
+    "Operating Temperature ": "NaN",
+    "Reference Standard": "IEC60309",
+    "Other Features": {
+      "Type": [
+        "Wall Mount Socket-Water Tight"
+      ],
+      "No. of Poles": [
+        "3 Poles","5 Poles"
+      ],
+    
+      "Earth Contact Position": [
+        "6H"
+      ],
+      "Approvals": [
+        "CE",
+        "RoHS"
+      ],
+      "Degree of proctection (Mated)": [
+        "IP 67"
+      ]
+    }
+  },
+  {
+    "Product Name": "EEVC-TP-CON-X",
+    "Description": "EV CONNECTORS (Type 2 Connectors)",
+    "Rated Voltage": "240/480 Volts",
+    "Rated Current": "Max.63 Amp",
+    "Compliance": "NaN",
+    "Mounting Type": "NaN",
+    "Operating Temperature ": "-30\u00b0C To 50\u00b0",
+    "Reference Standard": "IEC 62196",
+    "Other Features": {
+      "Type": [
+        "EV Female Connector \u2013 Type 2"
+      ],
+      "Protection Degree": [
+        "IP 55 (Protection Cap)",
+        "IP44(Pluged in)"
+      ],
+      "Durability (Electrical Cycles Max.)": [
+        "upto 5000 cycles"
+      ],
+      "Durability (Mechinal Cycles Max.)": [
+        "upto 5000 cycles"
+      ]
+    }
+  },
+  {
+    "Product Name": "EEVC-TP2-INL-X",
+    "Description": "EV CONNECTORS (Type 2 Connectors)",
+    "Rated Voltage": "240/480 Volts",
+    "Rated Current": "Max.63 Amp",
+    "Compliance": NaN,
+    "Mounting Type": NaN,
+    "Operating Temperature ": "-30\u00b0C To 50\u00b0",
+    "Reference Standard": "IEC 62196",
+    "Other Features": {
+      "Type": [
+        "EV Inlet (EV side) \u2013 Type 2"
+      ],
+      "Protection Degree": [
+        "IP 55 (Protection Cap)",
+        "IP44(Pluged in)"
+      ],
+      "Durability (Electrical Cycles Max.)": [
+        "upto 5000 cycles"
+      ],
+      "Durability (Mechinal Cycles Max.)": [
+        "upto 5000 cycles"
+      ]
+    }
+  },
+  {
+    "Product Name": "EEVC-TP2-PLG-X",
+    "Description": "EV CONNECTORS (Type 2 Connectors)",
+    "Rated Voltage": "240/480 Volts",
+    "Rated Current": "Max.63 Amp",
+    "Compliance": NaN,
+    "Mounting Type": NaN,
+    "Operating Temperature ": "-30\u00b0C To 50\u00b0",
+    "Reference Standard": "IEC 62196",
+    "Other Features": {
+      "Type": [
+        "EV Male Connector \u2013 Type 2"
+      ],
+      "Protection Degree": [
+        "IP 55 (Protection Cap)",
+        "IP44(Pluged in)"
+      ],
+      "Durability (Electrical Cycles Max.)": [
+        "upto 5000 cycles"
+      ],
+      "Durability (Mechinal Cycles Max.)": [
+        "upto 5000 cycles"
+      ]
+    }
+  },
+  {
+    "Product Name": "EEVC-TP2-OLT-X",
+    "Description": "EV CONNECTORS (Type 2 Connectors)",
+    "Rated Voltage": "240/480 Volts",
+    "Rated Current": "Max.63 Amp",
+    "Compliance": NaN,
+    "Mounting Type": NaN,
+    "Operating Temperature ": "-30\u00b0C To 50\u00b0",
+    "Reference Standard": "IEC 62196",
+    "Other Features": {
+      "Type": [
+        "EV Male Connector \u2013 Type 2"
+      ],
+      "Protection Degree": [
+        "IP 55 (Protection Cap)",
+        "IP44(Pluged in)"
+      ],
+      "Durability (Electrical Cycles Max.)": [
+        "upto 5000 cycles"
+      ],
+      "Durability (Mechinal Cycles Max.)": [
+        "upto 5000 cycles"
+      ]
+    }
+  },
+  {
+    "Product Name": "EEVC-CCS2-CON-X",
+    "Description": "EV CONNECTORS (CCS 2 CONNECTORS)",
+    "Rated Voltage": "1000 Volts",
+    "Rated Current": "Max.150 Amp",
+    "Compliance": NaN,
+    "Mounting Type": NaN,
+    "Operating Temperature ": "-30\u00b0C To 50\u00b0",
+    "Reference Standard": "IEC 62196",
+    "Other Features": {
+      "Type": [
+        "EV Female Connector \u2013 CCS2"],
+        "Protection Degree": ["IP 54 (Protection Cap)",
+        "IP44(Pluged in)"],
+        "Durability (Electrical Cycles Max.)" :[" upto 5000 cycles"],
+        "Durability (Mechinal Cycles Max.)" : ["upto 5000 cycles"]
+      
+    }
+  },
+  {
+    "Product Name": "EEVC-CS2-INL-X",
+    "Description": "EV CONNECTORS (CCS 2 CONNECTORS)",
+    "Rated Voltage": "1000 Volts",
+    "Rated Current": "Max.150 Amp",
+    "Compliance": NaN,
+    "Mounting Type": NaN,
+    "Operating Temperature ": "-30\u00b0C To 50\u00b0",
+    "Reference Standard": "IEC 62196",
+    "Other Features": {
+      "Type": [
+        "EV Inlet(EV Side) \u2013 CCS 2"],
+        "Protection Degree": ["IP 54 (Protection Cap)",
+        "IP44(Pluged in)"],
+        "Durability (Electrical Cycles Max.) ": ["upto 5000 cycles"],
+        "Durability (Mechinal Cycles Max.) ": ["upto 5000 cycles"
+      ]
+    }
+  }
+]

@@ -12,8 +12,7 @@ export const sendMessage = async (message: string) => {
       headers: {
         'Content-Type': 'application/json',
         'Accept': 'application/json'
-      },
-      withCredentials: true
+      }
     });
     
     console.log('Received response from Rasa:', response.data);
@@ -23,7 +22,7 @@ export const sendMessage = async (message: string) => {
       return response.data;
     } else {
       console.warn('Received empty or invalid response from Rasa:', response.data);
-      throw new Error('Invalid response format from chatbot');
+      return [{ text: 'No results found. Please try a different search.' }];
     }
   } catch (error) {
     const axiosError = error as AxiosError;
@@ -32,11 +31,6 @@ export const sendMessage = async (message: string) => {
       response: axiosError.response?.data,
       status: axiosError.response?.status,
       headers: axiosError.response?.headers,
-      config: {
-        url: axiosError.config?.url,
-        method: axiosError.config?.method,
-        headers: axiosError.config?.headers
-      }
     });
     
     if (axiosError.code === 'ERR_NETWORK') {
@@ -45,4 +39,4 @@ export const sendMessage = async (message: string) => {
     
     throw axiosError;
   }
-}; 
+};

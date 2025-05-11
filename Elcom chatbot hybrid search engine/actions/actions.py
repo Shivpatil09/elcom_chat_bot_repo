@@ -273,12 +273,12 @@ def format_product_info(product: Dict[str, Any], query: str = "") -> str:
         sections.append("")
         
         # Product Description
-        sections.append("Product Description")
+        sections.append("### Product Description")
         sections.append(product.get('description', 'N/A'))
         sections.append("")
         
         # Technical Specifications
-        sections.append("Technical Specifications")
+        sections.append("### Technical Specifications")
         sections.append(f"• Rated Voltage: {product.get('rated_voltage', 'N/A')}")
         
         current = product.get('rated_current', 'N/A')
@@ -294,7 +294,7 @@ def format_product_info(product: Dict[str, Any], query: str = "") -> str:
         sections.append("")
         
         # Standards & Compliance
-        sections.append("Standards & Compliance")
+        sections.append("### Standards & Compliance")
         if product.get('compliance'):
             standards = product['compliance'].get('standards', [])
             if standards and standards != ['NaN']:
@@ -316,7 +316,7 @@ def format_product_info(product: Dict[str, Any], query: str = "") -> str:
         
         # Additional Features
         if product.get('other_features'):
-            sections.append("Additional Features")
+            sections.append("### Additional Features")
             for key, value in product['other_features'].items():
                 if isinstance(value, list) and value:
                     value_str = []

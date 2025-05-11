@@ -21,7 +21,7 @@ const MessageBubble: React.FC<MessageBubbleProps> = ({ message }) => {
       </h3>
     ),
     p: ({ children }) => (
-      <p className="text-gray-700 mb-3 leading-relaxed">{children}</p>
+      <p className="text-gray-700 mb-3 leading-relaxed whitespace-pre-line">{children}</p>
     ),
     strong: ({ children }) => (
       <strong className="text-gray-900 font-semibold">{children}</strong>
@@ -35,14 +35,47 @@ const MessageBubble: React.FC<MessageBubbleProps> = ({ message }) => {
         <span className="text-gray-700">{children}</span>
       </li>
     ),
-    hr: () => <hr className="my-6 border-gray-200" />,
-    // Section styling
+    hr: () => <hr className="my-4 border-gray-200" />,
     section: ({ children }) => (
-      <section className="mb-6 last:mb-0">{children}</section>
+      <section className="mb-4 last:mb-0">{children}</section>
     )
   };
 
   const renderContent = () => {
+    // Handle product information format
+    if (message.text.includes('Product Description') || message.text.includes('Technical Specifications')) {
+      return (
+        <div className="space-y-4">
+          {message.text.split('\n\n').map((section, index) => (
+            <div key={index} className="space-y-2">
+              {section.split('\n').map((line, lineIndex) => {
+                if (line.startsWith('•')) {
+                  return (
+                    <div key={lineIndex} className="flex items-start space-x-2">
+                      <span className="text-blue-500 mt-1.5 flex-shrink-0">•</span>
+                      <span className="text-gray-700">{line.substring(2)}</span>
+                    </div>
+                  );
+                }
+                if (line.trim() === '---') {
+                  return <hr key={lineIndex} className="my-4 border-gray-200" />;
+                }
+                if (line.trim() && !line.startsWith('•')) {
+                  return (
+                    <p key={lineIndex} className={`${line.endsWith(':') ? 'font-semibold' : ''} text-gray-700`}>
+                      {line}
+                    </p>
+                  );
+                }
+                return null;
+              })}
+            </div>
+          ))}
+        </div>
+      );
+    }
+
+    // Welcome message
     if (message.text.includes("Product Assistant")) {
       return (
         <div className="text-center space-y-4">
@@ -56,19 +89,8 @@ const MessageBubble: React.FC<MessageBubbleProps> = ({ message }) => {
       );
     }
 
-    // Product information display
-    if (message.text.includes("###")) {
-      return (
-        <div className="prose prose-sm max-w-none prose-headings:mb-4 prose-headings:border-b prose-headings:border-gray-200 prose-headings:pb-2 prose-p:text-gray-700 prose-p:leading-relaxed prose-strong:text-gray-900 prose-strong:font-semibold prose-ul:list-none prose-ul:pl-0 prose-li:flex prose-li:items-start prose-li:space-x-2">
-          <ReactMarkdown components={components}>
-            {message.text}
-          </ReactMarkdown>
-        </div>
-      );
-    }
-
     // Regular message
-    return <span className="text-inherit">{message.text}</span>;
+    return <span className="text-inherit whitespace-pre-line">{message.text}</span>;
   };
 
   return (

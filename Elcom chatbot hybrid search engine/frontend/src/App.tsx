@@ -25,27 +25,36 @@ function App() {
   }, [isOpen, messages.length]);
 
   const formatProductDetails = (products: any[]) => {
-    return products.map((product, index) => {
-      const details = product.text.split('\n')
-        .map((line: string) => line.trim())
-        .filter(Boolean);
+    return products
+      .map((product) => {
+        // Split the text into lines and clean them
+        const lines = product.text.split('\n')
+          .map((line: string) => line.trim())
+          .filter(Boolean);
 
-      // Extract the title and remove asterisks
-      const title = details[0].replace(/\*\*/g, '').trim();
-      
-      // Process the remaining details
-      const processedDetails = details.slice(1).map((line: string) => {
-        if (line.startsWith('-')) {
-          const [key, ...valueParts] = line.substring(1).split(':');
-          const value = valueParts.join(':').trim();
-          return `**${key.trim()}:** ${value}`;
+        const sections: string[] = [];
+        let currentSection = '';
+
+        for (const line of lines) {
+          // If line ends with colon, it's a section header
+          if (line.endsWith(':')) {
+            if (currentSection) {
+              sections.push(currentSection.trim());
+            }
+            currentSection = line + '\n';
+          } else {
+            currentSection += line + '\n';
+          }
         }
-        return line;
-      });
+        
+        if (currentSection) {
+          sections.push(currentSection.trim());
+        }
 
-      // Format the product section with consistent spacing
-      return `### ${title}\n\n${processedDetails.join('\n')}`;
-    }).join('\n\n---\n\n'); // Add separator between products
+        // Join sections with double newlines
+        return sections.join('\n\n');
+      })
+      .join('\n\n---\n\n'); // Separate products with horizontal rule
   };
 
   const handleSendMessage = useCallback(async (text: string) => {
@@ -65,35 +74,13 @@ function App() {
       
       // Handle Rasa response format
       if (Array.isArray(response) && response.length > 0) {
-        // Check if this is a product search result
-        if (response.length > 1 && response[0].text.includes('found')) {
-          // First message is the introduction
-          const introMessage: Message = {
-            id: Date.now().toString(),
-            text: response[0].text,
-            sender: 'bot',
-            timestamp: Date.now()
-          };
-          
-          // Combine all product details into one message
-          const productDetails: Message = {
-            id: (Date.now() + 1).toString(),
-            text: formatProductDetails(response.slice(1)),
-            sender: 'bot',
-            timestamp: Date.now() + 1
-          };
-          
-          setMessages(prev => [...prev, introMessage, productDetails]);
-        } else {
-          // Handle regular messages
-          const botMessage: Message = {
-            id: Date.now().toString(),
-            text: response[0].text,
-            sender: 'bot',
-            timestamp: Date.now()
-          };
-          setMessages(prev => [...prev, botMessage]);
-        }
+        const botMessage: Message = {
+          id: Date.now().toString(),
+          text: formatProductDetails(response),
+          sender: 'bot',
+          timestamp: Date.now()
+        };
+        setMessages(prev => [...prev, botMessage]);
       } else {
         const botMessage: Message = {
           id: Date.now().toString(),

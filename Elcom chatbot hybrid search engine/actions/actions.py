@@ -264,61 +264,36 @@ def search_products(query: str) -> List[Dict[str, Any]]:
         return []
 
 def format_product_info(product: Dict[str, Any], query: str = "") -> str:
-    """Format product information to match the exact design shown."""
+    """Format product information using proper Markdown syntax."""
     try:
         sections = []
         
-        # Product Name at the top
-        sections.append(f"{product.get('product_name')}:")
+        # Product Name and Description
+        sections.append(f"{product['product_name']}")
         sections.append("")
-        
-        # Product Description
-        sections.append("### Product Description")
+        sections.append("Product Description:")
         sections.append(product.get('description', 'N/A'))
         sections.append("")
         
         # Technical Specifications
-        sections.append("### Technical Specifications")
+        sections.append("Technical Specifications:")
         sections.append(f"• Rated Voltage: {product.get('rated_voltage', 'N/A')}")
-        
-        current = product.get('rated_current', 'N/A')
-        if isinstance(current, str):
-            current = current.replace(" / ", "/")
-        sections.append(f"• Rated Current: {current}")
-        
-        mounting = product.get('mounting_type', 'N/A')
-        sections.append(f"• Mounting Type: {mounting}")
-        
-        temp_range = product.get('operating_temperature', 'N/A')
-        sections.append(f"• Temperature Range: {temp_range}")
+        sections.append(f"• Rated Current: {product.get('rated_current', 'N/A')}")
+        sections.append(f"• Mounting Type: {product.get('mounting_type', 'N/A')}")
+        sections.append(f"• Temperature Range: {product.get('operating_temperature', 'N/A')}")
         sections.append("")
         
         # Standards & Compliance
-        sections.append("### Standards & Compliance")
-        if product.get('compliance'):
-            standards = product['compliance'].get('standards', [])
-            if standards and standards != ['NaN']:
-                processed_standards = []
-                for std in standards:
-                    std_str = str(std).strip()
-                    if std_str.lower() != 'nan':
-                        std_str = std_str.replace("( On Request )", "").strip()
-                        processed_standards.append(std_str)
-                
-                if processed_standards:
-                    sections.append(f"• Standards: {', '.join(processed_standards)}")
-        
+        sections.append("Standards & Compliance")
         if product.get('reference_standard'):
-            ref_standards = str(product.get('reference_standard')).split(',')
-            ref_standards = [std.strip() for std in ref_standards]
-            sections.append(f"• Reference Standards: {', '.join(ref_standards)}")
+            sections.append(f"• Reference Standards: {product.get('reference_standard', 'N/A')}")
         sections.append("")
         
         # Additional Features
         if product.get('other_features'):
-            sections.append("### Additional Features")
+            sections.append("Additional Features:")
             for key, value in product['other_features'].items():
-                if isinstance(value, list) and value:
+                if isinstance(value, list):
                     value_str = []
                     for item in value:
                         item_str = str(item).strip("[]'\"")
@@ -327,50 +302,13 @@ def format_product_info(product: Dict[str, Any], query: str = "") -> str:
                             value_str.append(item_str)
                     if value_str:
                         sections.append(f"• {key}: {', '.join(value_str)}")
+                elif value and str(value).lower() != 'nan':
+                    sections.append(f"• {key}: {value}")
         
         return "\n".join(sections).strip()
     except Exception as e:
         logger.error(f"Error formatting product info: {str(e)}")
         return f"Error displaying product information for {product.get('product_name', 'Unknown')}"
-
-def format_multiple_products(products: List[Dict[str, Any]]) -> str:
-    """Format multiple products for display."""
-    return "\n\n---\n\n".join(format_product_info(p) for p in products)
-
-def parse_numeric_range(query: str, unit: str) -> Optional[Tuple[float, float]]:
-    """Parse numeric range from query string for a given unit."""
-    pattern = rf"(\d+)\s*{unit}\s*to\s*(\d+)\s*{unit}"
-    match = re.search(pattern, query)
-    if match:
-        return (float(match.group(1)), float(match.group(2)))
-    return None
-
-def extract_filters(query: str) -> Dict[str, Any]:
-    """Extract filters from the query string."""
-    filters = {}
-    query_lower = query.lower()
-
-    # Categorical filters
-    if "spdt" in query_lower: filters["description"] = "spdt"
-    if "dpdt" in query_lower: filters["description"] = "dpdt"
-    if "rocker" in query_lower: filters["description"] = "rocker"
-    if "rotary" in query_lower: filters["description"] = "rotary"
-    if "panel" in query_lower: filters["mounting_type"] = "panel"
-    if "snap-in" in query_lower: filters["mounting_type"] = "snap-in"
-    if "chassis" in query_lower: filters["mounting_type"] = "chassis"
-
-    # Numeric filters
-    voltage_range = parse_numeric_range(query_lower, "v")
-    current_range = parse_numeric_range(query_lower, "a")
-
-    if voltage_range:
-        filters["voltage_range"] = voltage_range
-    if current_range:
-        filters["current_range"] = current_range
-
-    return filters
-
-# --- Rasa Action ---
 
 class ActionSearchProduct(Action):
     def name(self) -> str:
@@ -402,15 +340,17 @@ class ActionSearchProduct(Action):
             else:
                 # Format the results
                 if len(results) == 1:
-                    response = format_product_info(results[0], user_query)
+                    response = "Found 1 matching product:\n\n" + format_product_info(results[0], user_query)
                 else:
                     # Add introduction with count information
+                    total_results = len(results)
+                    intro = f"Found {total_results} matching products (showing top {min(total_results, MAX_RESULTS)}):\n\n"
                     formatted_results = []
                     for product in results:
                         formatted_results.append(format_product_info(product, user_query))
-                    response = "\n\n---\n\n".join(formatted_results)
+                    response = intro + "\n\n---\n\n".join(formatted_results)
         
-            dispatcher.utter_message(text=response)
+            dispatcher.utter_message(text=response, parse_mode="markdown")
             
             if results:
                 update_search_history(results[0]['product_name'])

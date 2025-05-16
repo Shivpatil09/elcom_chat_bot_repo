@@ -22,8 +22,12 @@ var/
 
 # Rasa
 .rasa/
-models/
-results/
+
+# Keep specific model and results files
+!models/*.tar.gz
+!results/*.json
+!results/*.png
+!results/*.yml
 
 # Node/React
 frontend/node_modules/
